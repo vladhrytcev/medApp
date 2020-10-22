@@ -1,0 +1,905 @@
+{
+	"auth": {
+		"Welcome_back!": "Welcome back!",
+		"Sign_in_to_your_account_to_continue": "Sign in to your account to continue",
+		"Email_Address": "Email Address",
+		"Password": "Password",
+		"Sign_In": "Sign In",
+		"Forgot_password": "Forgot password",
+		"You_dont_have_account_yet,_please": "You don't have account yet, please",
+		"Sign_Up": "Sign Up",
+		"Get_started": "Get started",
+		"Start_creating_the_best_possible_user_experience_for_you_customers": "Start creating the best possible user experience for you customers",
+		"First_Name": "First Name",
+		"Last_Name": "Last Name",
+		"If_you_already_have_account,_please": "If you already have account, please",
+		"Email_is_not_valid": "Email is not valid",
+		"Reset_password": "Reset password",
+		"Enter_your_email_to_reset_your_password": "Enter your email to reset your password",
+		"Your_password_is_to_weak": "Your password is to weak",
+		"You_password_is_not_enough_good": "You password is not enough good",
+		"You_password_is_strong": "You password is strong"
+	},
+	"global": {
+		"lng": "en",
+		"phone": {
+			"number": "(+49) (221) 964 1811",
+			"ref": "+tel: +492219641811"
+		},
+		"email": "info@medlink.de",
+		"header": {
+			"landing": {
+				"navigation": {
+					"home": "Solutions",
+					"partners": "Partner",
+					"about-us": "About Us"
+				},
+				"contact": "Contact",
+				"login": "Login",
+				"logout": "Login"
+			}
+		},
+		"footer": {
+			"landing": {
+				"contact-us-details": {
+					"call-us": "Call us",
+					"email-us": "Email us"
+				},
+				"navigation": {
+					"imprint": "Imprint",
+					"terms": "Terms of Service",
+					"privacy": "Data Security"
+				}
+			}
+		},
+		"Clinics": "Clinics",
+		"Agencies": "Agencies",
+		"How_It_Works": "How It Works",
+		"send": "Send Request",
+		"search_button": "Search",
+		"login_button": "Login",
+		"logout_button": "Logout",
+		"qlinks": "Quick Links",
+		"contact_us": "Contact Us",
+		"other": "Other",
+		"uber_uns": "About us",
+		"AGB": "Terms of Service",
+		"Data_security": "Data Security",
+		"Impressum": "Imprint",
+		"contact": {
+			"header": "Contact us",
+			"sub": "Call us or write us an e-mail and we will get in contact with you.",
+			"call_me": "Give us a call",
+			"modal": {
+				"title": "What happenes next?",
+				"text": "Now it is our turn. We, at medlink, will forward your inquiry to over 200 agencies and identify the best possible staff for your requests. Shortly you will receive an email or telephone call with the best offers suited to you.",
+				"button": "Got it",
+				"list": [
+					{
+						"_id": "1",
+						"content": "url(/static/img/icons/modal-tick.svg)",
+						"title": "Contact us",
+						"isActive": "true"
+					},
+					{
+						"_id": "2",
+						"content": "url(/static/img/icons/modal-tick.svg)",
+						"title": "Send Inquiry",
+						"isActive": "true"
+					},
+					{
+						"_id": "3",
+						"content": "'3'",
+						"title": "Receive Offers",
+						"isActive": "false"
+					}
+				]
+			},
+			"form": {
+				"search1": "We are looking for",
+				"search2": "In our",
+				"dropdown": {
+					"title": "With only 1-click your inquiry will be sent to over 200 agencies",
+					"subtitle": "Please fill out the form to continue",
+					"input_date": {
+						"placeholder": "From now",
+						"from": "From ",
+						"to": " to "
+					},
+					"input_hospital_name": {
+						"placeholder": "Hospital Name"
+					},
+					"input_your_name": {
+						"placeholder": "Your Name"
+					},
+					"input_email": {
+						"placeholder": "Email"
+					},
+					"input_phone": {
+						"placeholder": "Phone"
+					},
+					"checkbox": "I agree that my data will be used and stored to process my request. Further information and revocation information can be found in the <0>{{dlink}}</0> declaration.",
+					"checkbox_link_name": "data protection",
+					"button": "Submit",
+					"call": "Call us",
+					"phone_number": "(+49) 800 211 25 25"
+				},
+				"clinics": {
+					"header": "Fill out your contact details",
+					"label": "Organisation name"
+				},
+				"agencies": {
+					"header": "Fill out your contact details",
+					"label": "Organisation name"
+				},
+				"general": {
+					"header": "Fill out your contact details",
+					"label": "Organisation name"
+				},
+				"title": "Title",
+				"firstname": "First name",
+				"lastname": "Last name",
+				"email": "E-mail address",
+				"contact": "Telephone number",
+				"message": "Your message",
+				"agree": "I agree that my data will be used and stored to process my request. Further information and revocation information can be found in the data protection declaration.*",
+				"agree2": "*required information",
+				"send": "Send"
+			}
+		}
+	},
+	"home": {
+		"landing": {
+			"title": "Resolve staff shortages:<0></0>fast - effective - digital",
+			"meta": [
+				{
+					"_id": 1,
+					"name": "title",
+					"content": "Staff recruitment & failure management for clinics | Medlink"
+				},{
+					"_id": 2,
+					"name": "description",
+					"content": "Digital solutions for healthcare: ✓ Staff recruitment ✓ Failure management ✓ Bottlenecks ✓ Process optimization | Find out more at medLink"
+				}
+			],
+			"search": {
+				"intro-image": {
+					"src": "/static/img/background/intro-search.jpg",
+					"alt": "Medlink: Staff and failure management for clinics"
+				},
+				"search-form": {
+					"specialist": "We are looking for",
+					"specialist_placeholder": "e.g. Doctor",
+					"organisation": "In Our",
+					"organisation_placeholder": "e.g. Cardiology Ward",
+					"search-button": "Search",
+					"title": "With only 1-click your inquiry will be sent to over 200 agencies",
+					"subtitle": "Please fill out the form to continue",
+					"date-placeholder": "From now",
+					"hospital-name-placeholder": "Hospital Name",
+					"name-placeholder": "Your Name",
+					"email-placeholder": "Email",
+					"phone-placeholder": "Phone",
+					"checkbox": "I agree that my data will be used and stored to process my request. Further information and revocation information can be found in the <0>{{dlink}}</0> declaration.",
+					"checkbox-link-name": "data protection",
+					"submit-button": "Submit",
+					"call": "Call us",
+					"phone-number": "(+49) 800 211 25 25"
+				}
+			},
+			"our-partners": {
+				"title": "Our partners",
+				"list": [
+					{
+						"_id": "1",
+						"imgSrc": "/static/img/icons/partner-1.svg",
+						"imgAlt": ""
+					},
+					{
+						"_id": "2",
+						"imgSrc": "/static/img/icons/partner-2.svg",
+						"imgAlt": ""
+					},
+					{
+						"_id": "3",
+						"imgSrc": "/static/img/icons/partner-3.svg",
+						"imgAlt": ""
+					},
+					{
+						"_id": "4",
+						"imgSrc": "/static/img/icons/partner-4.svg",
+						"imgAlt": ""
+					},
+					{
+						"_id": "5",
+						"imgSrc": "/static/img/icons/partner-5.svg",
+						"imgAlt": ""
+					},
+					{
+						"_id": "6",
+						"imgSrc": "/static/img/icons/partner-6.svg",
+						"imgAlt": ""
+					},
+					{
+						"_id": "7",
+						"imgSrc": "/static/img/icons/partner-7.svg",
+						"imgAlt": ""
+					},
+					{
+						"_id": "8",
+						"imgSrc": "/static/img/icons/partner-8.svg",
+						"imgAlt": ""
+					},
+					{
+						"_id": "9",
+						"imgSrc": "/static/img/icons/partner-9.svg",
+						"imgAlt": ""
+					}
+				]
+			},
+			"platform": {
+				"title": "Digital Solutions for Health Organisations",
+				"subtitle": "and modernising staff requests",
+				"text": [
+					"Our platform digitally connects Health Organisations with Agencies focussing on temporary staff in the health sector. Pressures in clinics is constantly increasing due to the current staff shortages.",
+					"medlink offers you digital solutions for recruitment of temporary staff and failure management. We optimise communication and coordination and your satisfaction is our top priority. Digitze your recruitment and failure management now."
+				],
+				"image": {
+					"src": "static/img/background/medlink-platform.png",
+					"alt": "medlink: a single platform"
+				}
+			},
+			"features": {
+				"title": "Relieve Staff using our full digital service",
+				"list": [
+					{
+						"_id": "1",
+						"title": "Single point of contact for everyone",
+						"text": "During shortage of staff we connect you with numerous health professional suppliers and find you temporary staff that suit your organisation. No more calling around to find a provider, No more 100s of emails from multiple providers. Use the full potential of your workers for essential tasks – they will thank you for it.",
+						"image": {
+							"src": "/static/img/icons/feature-1.svg",
+							"alt": "Failure management: Single Contact Person"
+						}
+					},
+					{
+						"_id": "2",
+						"title": "Immediate feedback",
+						"text": "You receive responses from the providers digitally and in real time. Choose your workforce based on their profile and references. Within a few clicks you ensure replacement for your staff shortage.",
+						"image": {
+							"src": "/static/img/icons/feature-2.svg",
+							"alt": "Staff: Feedback"
+						}
+					},
+					{
+						"_id": "3",
+						"title": "Easing your burden, digitally",
+						"text": "Using automated and standardised processes we reduce your workload and improve your daily working life. This way we lighten the number of tasks and ensure that your HR-Team can focus on more essential work.",
+						"image": {
+							"src": "/static/img/icons/feature-3.svg",
+							"alt": "Working process: digital relief"
+						}
+					}
+				]
+			},
+			"how-it-work": {
+				"title": "Recruit temporary staff in 3 steps",
+				"subtitle": "From the inquiry to the right offer within minutes: medlink saves you time and costs - with fully automatic completion processes and maximal transparency.",
+				"list": [
+					{
+						"_id": "1",
+						"title": "Inquiry",
+						"text": "Within minutes, establish an inquiry profile for your organisation and make it available online. Our algorithms match and forward your inquiry to our network.",
+						"image": {
+							"src": "/static/img/background/postJob.png",
+							"alt": "medlink: simple inquiry"
+						}
+					},
+					{
+						"_id": "2",
+						"title": "Fitting Offers",
+						"text": "You will receive offers for your specific inquiry including qualifications and recommendations. This reduces your administrative overhead and lets you focus on filling the temporary post.",
+						"image": {
+							"src": "/static/img/background/medlink-platform.png",
+							"alt": "medlink: fitting offers"
+						}
+					},
+					{
+						"_id": "3",
+						"title": "Fully automated",
+						"text": "We aim to fully automate the processes in inquiry, replacement, contracting, and invoicing right here. This reduces administrative overhead and provides you will full transparency on the steps of filling these temporary posts.",
+						"image": {
+							"src": "/static/img/background/applicant_details.png",
+							"alt": "medlink: fully automated"
+						}
+					}
+				]
+			},
+			"feedbacks": {
+				"list": [
+					{
+						"_id": "1",
+						"text": "Staff shortages are a constant issue in our organisation. We therefore like to use medlink as it gives us access to a large set of competent replacement staff, quickly and without fuss.",
+						"author": "Markus H. (HR Manager)"
+					},
+					{
+						"_id": "2",
+						"text": "medlink allows us to find replacement staff in the shortest time possible without having to spend time on calls and descriptions. This simplifies our day to day workdays and saves an immense amount of time.",
+						"author": "Leonie. F"
+					}
+				]
+			},
+			"find-out-more": {
+				"title": "Manage temporary staff efficiently",
+				"text": "Use our intelligent platform to optimise your personell needs.",
+				"button-text": "Search now",
+				"image": {
+					"src": "/static/img/background/find-out-more.jpg",
+					"alt": "medlink: Search now"
+				}
+			},
+			"contact-us-intro": {
+				"title": "Contact Us",
+				"text": "We are here for you. Our colleagues are ready to take your call and help you with registration and usage of our platform."
+			}
+		}
+	},
+	"innovation": {
+		"title": "Innovative human resources management",
+		"meta": [
+			{
+				"_id": 1,
+				"name": "title",
+				"content": "Digital solutions in healthcare | medlink"
+			},
+			{
+				"_id": 2,
+				"name": "description",
+				"content": "Digital solutions in healthcare: ✓ Staff planning ✓ Increase efficiency ✓ automatic staff scheduling or off duty | Find out more at medlink"
+			}
+		],
+		"staff": {
+			"title": "Optimised staff deployment with digital solutions",
+			"text": [
+				"Modernise your staff management. Bet on the innovative solutions of medlink. Our digital platform reduces overall administrative workload in daily tasks surrounding temporary staff recruitment.",
+				"We develop specialised solution for your daily challenges and adapt them to suit you. This way we establish an individualised digitial service which will lead to your long-term success."
+			],
+			"image": {
+				"src": "/static/img/background/innovation-staff.jpg",
+				"alt": ""
+			},
+			"image-mobile": {
+				"src": "/static/img/background/innovation-staff-mobile.png",
+				"alt": ""
+			},
+			"image-tablet": {
+				"src": "/static/img/background/innovation-staff-tablet.png",
+				"alt": ""
+			}
+		},
+		"challenge": {
+			"title": "Challenges",
+			"list": [
+				{
+					"_id": "1",
+					"title": "Improve work-life balance",
+					"image": {
+						"src": "/static/img/background/challenge-1.jpg",
+						"alt": ""
+					}
+				},
+				{
+					"_id": "2",
+					"title": "Reduce unnecessary administration",
+					"image": {
+						"src": "/static/img/background/challenge-2.jpg",
+						"alt": ""
+					}
+				},
+				{
+					"_id": "3",
+					"title": "Improve patient satisfaction",
+					"image": {
+						"src": "/static/img/background/challenge-3.jpg",
+						"alt": ""
+					}
+				}
+			]
+		},
+		"solution": {
+			"title": "Current functions contain",
+			"list": [
+				{
+					"_id": "1",
+					"title": "Let internal staff easily choose their working days",
+					"image": {
+						"src": "/static/img/background/solution-1.png",
+						"alt": ""
+					}
+				},
+				{
+					"_id": "2",
+					"title": "Give staff the power to easily swap shifts",
+					"image": {
+						"src": "/static/img/background/solution-1.png",
+						"alt": ""
+					}
+				},
+				{
+					"_id": "3",
+					"title": "Ensure you always have staff even when they are sick",
+					"image": {
+						"src": "/static/img/background/solution-1.png",
+						"alt": ""
+					}
+				}
+			]
+		},
+		"how-it-work": {
+			"title": "Current functions include",
+			"subtitle": "",
+			"list": [
+				{
+					"_id": "1",
+					"title": "Digital staff management",
+					"text": "Communicate in real-time and coordinate your staff within your department and across your organisation. Our standardised digital processes allow short-term alterations, staff enquirires, or direct sharing of relevant information.",
+					"image": {
+						"src": "/static/img/background/solution-1.png",
+						"alt": ""
+					}
+				},
+				{
+					"_id": "2",
+					"title": "Simplify shift swaps",
+					"text": "In the case of short-term sickness or last minute shift changes, our platform allows your staff to swap shifts easily. With only a few clicks staff can ask to swap shifts with their buddies or across the organisation, reducing sickdays and the need for external staff.",
+					"image": {
+						"src": "/static/img/background/solution-1.png",
+						"alt": ""
+					}
+				},
+				{
+					"_id": "3",
+					"title": "Smart failure management",
+					"text": "Open staff enquiries are automatically identified by the system and forwarded to relevant staff in your organisation. In the case, where no internal staff can be identified, the system will forward the enquiry to HR who can, with only a few clicks, advertise and identify external staff to cover the shift.",
+					"image": {
+						"src": "/static/img/background/solution-1.png",
+						"alt": ""
+					}
+				}
+			]
+		},
+		"outcome": {
+			"title": "Increase efficiency with success",
+			"subtitle": "Communicate and coordinate your team in real time within and between departments. Make full use of your available workforce without complicated communication setups or emails. Using digitised, standardised processes solve momentary changes to workforces schedules or ensure that important information is shared quickly and safely without requiring sharing of personal data.",
+			"list": []
+		},
+		"secondary": {
+			"outcome": {
+				"title": "Outcomes",
+				"subtitle": "",
+				"list": [
+					{
+						"_id": "1",
+						"title": "2hrs to 5min",
+						"subtitle": "time savings for more efficiency",
+						"image": {
+							"src": "/static/img/icons/outcome-1.svg",
+							"alt": ""
+						}
+					},
+					{
+						"_id": "2",
+						"title": "70% less",
+						"subtitle": "demand for external staff",
+						"image": {
+							"src": "/static/img/icons/outcome-2.svg",
+							"alt": ""
+						}
+					},
+					{
+						"_id": "3",
+						"title": "1.5 FTE",
+						"subtitle": "More time for more important tasks",
+						"image": {
+							"src": "/static/img/icons/outcome-3.svg",
+							"alt": ""
+						}
+					}
+				]
+			}
+		},
+		"contact-us-intro": {
+			"title": "Contact Us",
+			"text": "We are here for you. Our colleagues are ready to take your call and help you with registration and usage of our platform."
+		}
+	},
+	"partners": {
+		"title": "Less effort - more Inquiries",
+		"meta": [
+			{
+				"_id": 1,
+				"name": "title",
+				"content": "Partner for staff agencies in the healthcare sector | medlink"
+			},
+			{
+				"_id": 2,
+				"name": "description",
+				"content": "Increase your customer base: Staff requests in the healthcare directly to you | Find out more at medlink"
+			}
+		],
+		"intro-image": {
+			"src": "/static/img/background/newJobs.png",
+			"alt": ""
+		},
+		"our-network": {
+			"title": "Increase inquiries",
+			"text": "Let us help you to increase your healthcare staff inquiries and increase your profits using our fully automated platform.",
+			"image": {
+				"src": "/static/img/background/newJobs.png",
+				"alt": "medlink: Agency partners in healthcare"
+			},
+			"list": [
+				{
+					"_id": "1",
+					"title": "Easily identify suitable inquiries"
+				},
+				{
+					"_id": "2",
+					"title": "Compare inquiry requirements easily with your staff pool"
+				},
+				{
+					"_id": "3",
+					"title": "Efficiently use your staff pool"
+				},
+				{
+					"_id": "4",
+					"title": "More time for key tasks instead of time consuming cold-calling"
+				},
+				{
+					"_id": "5",
+					"title": "Save time and money acquiring healthcare related inquiries"
+				}
+			]
+		},
+		"how-it-work": {
+			"title": "Super easy in only 3 steps",
+			"subtitle": "",
+			"list": [
+				{
+					"_id": "1",
+					"title": "Receive inquiriry",
+					"text": "Using our platform you receive matched inquiries based on your search filters. Our profiles contain all the relevant information for you to find the perfect replacement.",
+					"image": {
+						"src": "/static/img/background/newJobs.png",
+						"alt": "medlink: inquiries"
+					}
+				},
+				{
+					"_id": "2",
+					"title": "Fitting Offers",
+					"text": "Within a single inquiry add and update your available staff to ensure optimal distribution of your staff.",
+					"image": {
+						"src": "/static/img/background/newJobs_details.png",
+						"alt": "medlink: offers"
+					}
+				},
+				{
+					"_id": "3",
+					"title": "Fully automated",
+					"text": "We aim to fully automate the processes in inquiry, replacement, contracting, and invoicing right here. This reduces administrative overhead and provides you will full transparency on the steps of filling these temporary posts.",
+					"image": {
+						"src": "/static/img/background/partnerDashboard.png",
+						"alt": "medlink: fully automated"
+					}
+				}
+			]
+		},
+		"advantages": {
+			"title": "Advantages for Agencies",
+			"list": [
+				{
+					"_id": "1",
+					"title": "Effective sales channel for customer acquisition",
+					"text": "",
+					"image": {
+						"src": "/static/img/icons/advantages-1.svg",
+						"alt": "medlink advantage: effective sales channel"
+					}
+				},
+				{
+					"_id": "2",
+					"title": "Significantly more time for acquisition of staff",
+					"text": "",
+					"image": {
+						"src": "/static/img/icons/advantages-2.svg",
+						"alt": "medlink advantage: more time for staff acquisition"
+					}
+				},
+				{
+					"_id": "3",
+					"title": "More efficiency: less paperwork",
+					"text": "",
+					"image": {
+						"src": "/static/img/icons/advantages-3.svg",
+						"alt": "medlink advantage: highly efficient"
+					}
+				}
+			]
+		},
+		"contact-us-intro": {
+			"title": "Contact Us",
+			"text": "We are here for you. Our colleagues are ready to take your call and help you with registration and usage of our platform."
+		}
+	},
+	"about-us": {
+		"title": "Digital competence for healthcare staff",
+		"meta": [
+			{
+				"_id": 1,
+				"name": "title",
+				"content": "Digital competence for healtchare staff | medlink"
+			},
+			{
+				"_id": 2,
+				"name": "description",
+				"content": "Profit from our digital competence in recruitment of healthcare staff ✓ Experience ✓ Solutions ✓ Partner | Find out more at medlink"
+			}
+		],
+		"intro-image": {
+			"src": "/static/img/background/intro-about-us.jpg",
+			"alt": "medlink: staff consulting and digital competence in acquisition of healthcare staff"
+		},
+		"intro-image-tablet": {
+			"src": "/static/img/background/intro-about-us-tablet.png",
+			"alt": "medlink: staff consulting and digital competence in acquisition of healthcare staff"
+		},
+		"intro-image-mobile": {
+			"src": "/static/img/background/intro-about-us-mobile.png",
+			"alt": "medlink: staff consulting and digital competence in acquisition of healthcare staff"
+		},
+		"our-partners": {
+			"title": "Our partners for your success",
+			"list": [
+				{
+					"_id": "1",
+					"imgSrc": "/static/img/icons/partner-1.svg",
+					"imgAlt": ""
+				},
+				{
+					"_id": "2",
+					"imgSrc": "/static/img/icons/partner-2.svg",
+					"imgAlt": ""
+				},
+				{
+					"_id": "3",
+					"imgSrc": "/static/img/icons/partner-3.svg",
+					"imgAlt": ""
+				},
+				{
+					"_id": "4",
+					"imgSrc": "/static/img/icons/partner-4.svg",
+					"imgAlt": ""
+				},
+				{
+					"_id": "5",
+					"imgSrc": "/static/img/icons/partner-5.svg",
+					"imgAlt": ""
+				},
+				{
+					"_id": "6",
+					"imgSrc": "/static/img/icons/partner-6.svg",
+					"imgAlt": ""
+				},
+				{
+					"_id": "7",
+					"imgSrc": "/static/img/icons/partner-7.svg",
+					"imgAlt": ""
+				},
+				{
+					"_id": "8",
+					"imgSrc": "/static/img/icons/partner-8.svg",
+					"imgAlt": ""
+				},
+				{
+					"_id": "9",
+					"imgSrc": "/static/img/icons/partner-9.svg",
+					"imgAlt": ""
+				}
+			]
+		},
+		"our-promise": {
+			"title": "medlink: Our vision",
+			"subtitle": "",
+			"list": [
+				{
+					"_id": "1",
+					"title": "Our vision",
+					"text": "The situation is well known: understaffed departments, overworked clinical staff, and overfilled hospitals. The founders of medlink know first hand what the implications are on nurses, doctors, and HR to fill these vacancies. Our vision is to simplify this process significantly through digitial innovative technologies.",
+					"image": {
+						"src": "/static/img/background/promise-main-1.jpg",
+						"src-mobile": "/static/img/background/promise-main-mobile-1.png",
+						"alt": "medlink vision"
+					},
+					"icon": {
+						"src": "/static/img/icons/promise-1.svg",
+						"alt": ""
+					}
+				},
+				{
+					"_id": "2",
+					"title": "About us",
+					"text": "At medlink we combine expertise in medicine, informatics, and consulting to provide the best possible performance on all levels. Important for us the most important aspect is trust and responsibility. Supported by a strong network, we guide you to a new digital working world.",
+					"image": {
+						"src": "/static/img/background/promise-main-2.jpg",
+						"src-mobile": "/static/img/background/promise-main-mobile-2.png",
+						"alt": "medlink das team"
+					},
+					"icon": {
+						"src": "/static/img/icons/promise-2.svg",
+						"alt": ""
+					}
+				},
+				{
+					"_id": "3",
+					"title": "We complete you!",
+					"text": "medlink is sponsored by the Ministry of Economics and Innovation and by the European Social Fund. In close collaboration with the Faculty of Economics and Social studies at the University of Cologne we integrate innovative technologies, such as artificial intelligence, to derive novel healtcare solutions. Together with you we ensure your success.",
+					"image": {
+						"src": "/static/img/background/promise-main-3.jpg",
+						"src-mobile": "/static/img/background/promise-main-mobile-3.png",
+						"alt": "medlink success"
+					},
+					"icon": {
+						"src": "/static/img/icons/promise-3.svg",
+						"alt": ""
+					}
+				}
+			]
+		},
+		"contact-us-intro": {
+			"title": "Contact Us",
+			"text": "We are here for you. Our colleagues are ready to take your call and help you with registration and usage of our platform."
+		}
+	},
+	"agb": {
+		"title": "AGB",
+		"meta": [
+			{
+				"name": "",
+				"content": ""
+			}
+		],
+		"list": [
+			{
+				"_id": 1,
+				"title": "Test 1",
+				"text": "testing testing testing"
+			},
+			{
+				"_id": 2,
+				"title": "Test 2",
+				"text": "testing testing testing again"
+			}
+		]
+	},
+	"partner": {
+		"how_it_works": {
+			"title": "Personal beschaffen in 3 Schritten",
+			"subtitle": "Si sine causa? quae fuerit causa, mox videro; interea hoc tenebo, si mihi probabis ea, quae dices,",
+			"subscription": {
+				"title1": "Individuelle Anfrage stellen",
+				"title2": "Passende Angebote erhalten",
+				"title3": "Vollautomatisiert abwickeln",
+				"text1": "Erstellen Sie auf medlink innerhalb von einer Minute Ihr Anforderungsprofil und schalten Sie die Personalanfrage online. Unser Matching-Algorithmus leitet das individuelle Profil in Echtzeit an unser Personalnetzwerk weiter.",
+				"text2": "Bereits nach wenigen Minuten erhalten Sie eine Auswahl an passgenauen Bewerbern. Die Personalprofile inkl. Qualifikationsnachweisen und Empfehlungen erleichtern Ihnen die Auswahl der optimalen Besetzung. So gehen Sie bereits im Vorfeld sicher, dass die Bewerber optimal in Ihr Team passen.",
+				"text3": "Die komplette administrative Abwicklung der Vermittlungsprozesse übernimmt medlink für Sie in digitaler Form. Damit entlasten wir Sie vom Vertragsmanagement bis hin zur Rechnungsabwicklung. Gleichzeitig ist die maximale Transparenz gewährleistet: Sämtliche Schritte sind für Sie einzusehen und nachzuvollziehen."
+			}
+		}
+	},
+	"agencies": {
+		"header_carousel": {
+			"1": {
+				"title": "medlink offers you access to an extensive network of new customers and personnel inquiries. Comfortable and transparent.",
+				"sub": "We provide you with numerous service requests every day, from part-time and full-time jobs to temporary placements"
+			}
+		},
+		"advantage": {
+			"header": "Why recruitment agencies choose to work with us.",
+			"1": {
+				"title": "Maximize customer network",
+				"text": "Increase your order generation considerably by networking with a large pool of clinics and benefit from exclusive offers with our partner clinics."
+			},
+			"2": {
+				"title": "Create space for important things",
+				"text": "We relieve you of administrative tasks through digital, standardized processes. We support you in contract and invoice creation and in communication with customers."
+			},
+			"3": {
+				"title": "Real-time notification",
+				"text": "Get new job details directly from medlink and once you suggest a replacement get immediate acknowledgement. All contract generation is automatic and works like it is supposed to without any large challenges."
+			}
+		},
+		"process": {
+			"header": "Step by Step",
+			"sub": "Transparent and convenient - medlink makes it easy to win orders.",
+			"1": {
+				"title": "Receive job requests",
+				"text": "You receive tailored inquiries for your employees directly on the platform. You can adapt your preferences easily within our application and ensure that you only receive those inquiries that suits your employee portfolio best."
+			},
+			"2": {
+				"title": "Direct matching",
+				"text": "With just one click, you can report available employees to the request. This way that the matching can take place in the shortest possible time."
+			},
+			"3": {
+				"title": "Digitilisation",
+				"text": "The administrative processes used by medlink reduce workload and improve the way organisations and agencies exchange information from providing applicants to invoicing."
+			}
+		}
+	},
+	"howitworks": {
+		"header_carousel": {
+			"1": {
+				"title": "simple and efficient - with medlink you can make HR planning easier and more intuitive than ever before",
+				"sub": "The ideal replacement with just a few clicks. We help you to manage your vacancies efficiently and cost-effectively."
+			}
+		},
+		"process": {
+			"header": "How It Works",
+			"sub": "Within a few minutes, medlink can help you find suitable replacement for a member of staff. Empowering you to save time as well as money.",
+			"1": {
+				"title": "Set up your internal staff pool",
+				"text": "Every department defines their own internal staff pool and manages their staff. Each staff member gets their own login to receive, accept, and track yet to be filled shifts."
+			},
+			"2": {
+				"title": "Request replacement",
+				"text": "The department manager can upload a request in seconds. Our algorithms identify the best matches within your network and alerts them of the shift."
+			},
+			"3": {
+				"title": "Availability",
+				"text": "The pool of users can then accept or decline the request with a simple click. When multiple users reply positively, the department manager can select the replacement and the shift is filled. If no positive replies are given within a certain time-frame, the listing gets forwarded to the HR management which can then approve the request to be filled externally."
+			},
+			"4": {
+				"title": "Connect with vetted staff through the platform",
+				"text": "With a simple click the replacement request gets send out to numerous certified agencies. All paperwork regarding the replacement will still be covered by medlink; from communication and quality assurance to contracts and invoicing."
+			}
+		},
+		"review": {
+			"1": {
+				"title": "medlink is fast!",
+				"text": "The speed of processing through medlink is a real plus for our personnel management - but also for the staff.",
+				"name": "Petra Maier",
+				"position": "Personal Manager"
+			},
+			"2": {
+				"title": "medlink veringert unseren Stress",
+				"text": "Previously, we needed over 1 hour to find a replacement, which was stressfull. With medlink this process only took 2 minutes.",
+				"name": "Angela Pfortz",
+				"position": "Nurse Manager"
+			}
+		},
+		"advantage": {
+			"header": "Advantages working with us",
+			"1": {
+				"title": "Full service provider",
+				"text": "From managing the internal staff planning to the recruitment of external staff; medlink simplifies and automates all processes in the personnel value chain in digital form."
+			},
+			"2": {
+				"title": "Quality assurance",
+				"text": "medlink certifies all agencies to guarantee the highest quality of healthcare personell reassured through our rating system."
+			},
+			"3": {
+				"title": "Efficient allocation",
+				"text": "The optimal use of internal staffing minimises the use of external recruitment and significantly reduces costs."
+			},
+			"4": {
+				"title": "Individual fit",
+				"text": "Utilise individual, digital tools specifically designed for your requirements."
+			},
+			"5": {
+				"title": "Find personell easy",
+				"text": "Every aspect of filling a vacancy is covered by medlink and allows for a quick an best fitting outcome."
+			},
+			"6": {
+				"title": "Data analysis",
+				"text": "Use our Dashboard to provide you with the data you need to see to indicate your performance. We ensure to fulfill the best security requirements as laid out by EU-DSGVO and BDSG."
+			}
+		}
+	}
+}

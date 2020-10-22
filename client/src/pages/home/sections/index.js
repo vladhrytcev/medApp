@@ -1,0 +1,15 @@
+export { OurPartners } from './our-partners';
+export { Platform } from './platform';
+export { Features } from './features';
+export { HowItWorks } from './how-it-works';
+export { Feedbacks } from './feedbacks';
+export { FindOutMore } from './find-out-more';
+export { ContactUs } from './contact-us';
+export { Staff } from './staff';
+export { Challenge } from './challenge';
+export { Outcome } from './outcome';
+export { Solution } from './solution';
+export { OurNetwork } from './our-network';
+export { Advantages } from './advantages';
+export { OurPromise } from './our-promise';
+export { Search } from './search';

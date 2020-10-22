@@ -1,0 +1,1194 @@
+{
+	"auth": {
+		"Welcome_back!": "Willkommen zurück!",
+		"Sign_in_to_your_account_to_continue": "Melden Sie sich in Ihrem Konto an, um fortzufahren",
+		"Email_Address": "Email Addresse",
+		"Password": "Passwort",
+		"Sign_In": "Anmelden",
+		"Forgot_password": "Passwort vergessen",
+		"You_dont_have_account_yet,_please": "Sie haben noch keinen Account, bitte",
+		"Sign_Up": "Anmelden",
+		"Get_started": "Loslegen",
+		"Start_creating_the_best_possible_user_experience_for_you_customers": "Erstellen Sie die bestmögliche Benutzererfahrung für Ihre Kunden",
+		"First_Name": "Vorname",
+		"Last_Name": "Nachname",
+		"If_you_already_have_account,_please": "Wenn Sie bereits ein Konto haben, bitte",
+		"Email_is_not_valid": "Email ist ungültig",
+		"Reset_password": "Passwort zurücksetzen",
+		"Enter_your_email_to_reset_your_password": "Geben Sie Ihre email adresse ein, um Ihr Passwort zurückzusetzen",
+		"Your_password_is_to_weak": "Ihr Passwort ist zu schwach",
+		"You_password_is_not_enough_good": "Ihr Passwort ist nicht gut genug",
+		"You_password_is_strong": "Ihr Passwort ist stark"
+	},
+	"global": {
+		"lng": "de",
+		"phone": {
+			"number": "(+49) (221) 964 1811",
+			"ref": "+tel: +492219641811"
+		},
+		"email": "info@medlink.de",
+		"header": {
+			"landing": {
+				"navigation": {
+					"home": "Lösungen",
+					"partners": "Partner",
+					"about-us": "Über uns"
+				},
+				"contact": "Kontakt",
+				"login": "Login",
+				"logout": "Login"
+			}
+		},
+		"footer": {
+			"landing": {
+				"contact-us-details": {
+					"call-us": "Rufen Sie uns an",
+					"email-us": "Schreiben Sie uns"
+				},
+				"navigation": {
+					"imprint": "Impressum",
+					"terms": "AGB",
+					"privacy": "Datenschutzerklärung"
+				}
+			}
+		},
+		"Clinics": "Kliniken",
+		"Agencies": "Agenturen",
+		"How_It_Works": "So geht's",
+		"send": "Anfragen",
+		"search_button": "Suchen",
+		"login_button": "Login",
+		"logout_button": "Logout",
+		"qlinks": "Sitemap",
+		"contact_us": "Kontaktieren Sie Uns",
+		"other": "Sonstige",
+		"uber_uns": "Über Uns",
+		"AGB": "AGB",
+		"Data_security": "Datenschutz",
+		"Impressum": "Impressum",
+		"contact": {
+			"header": "Kontaktieren Sie Uns",
+			"sub": "Rufen Sie uns an oder schreiben Sie uns einfach eine E-Mail und wir melden uns umgehend persönlich.",
+			"call_me": "Rufen Sie Uns an",
+			"modal": {
+				"title": "Was passiert jetzt?",
+				"text": "Jetzt arbeiten wir, bei medlink, um Ihnen die besten Angebote zu finden. Wir leiten Ihre Anfrage an 200 Personalagenturen und finden die besten Angebote für Sie. In kurzer Zeit erhalten Sie eine Email (oder einen Anruf unter der hinterlassenen Nummer) mit unverbindlichen Angeboten.",
+				"button" : "Verstanden",
+				"list": [
+					{
+						"_id": "1",
+						"content": "url(/static/img/icons/modal-tick.svg)",
+						"title": "Kontakt aufnehmen",
+						"isActive": "true"
+					},
+					{
+						"_id": "2",
+						"content": "url(/static/img/icons/modal-tick.svg)",
+						"title": "Anfrage",
+						"isActive": "true"
+					},
+					{
+						"_id": "3",
+						"content": "'3'",
+						"title": "Angebote erhalten",
+						"isActive": "false"
+					}
+				]
+			},
+			"form": {
+				"search1": "Wir suchen eine(n)",
+				"search2": "Im Bereich",
+				"dropdown": {
+					"title": "Mit einem Klick wird Ihre Anfrage an über 200 Personalpartner weitergeleitet.",
+					"subtitle": "Bitte füllen Sie die Form aus",
+					"input_date": {
+						"placeholder": "Ab jetzt",
+						"from": "Ab ",
+						"to": " bis "
+					},
+					"input_hospital_name": {
+						"placeholder": "Krankenhaus"
+					},
+					"input_your_name": {
+						"placeholder": "Ihr Name"
+					},
+					"input_email": {
+						"placeholder": "Email"
+					},
+					"input_phone": {
+						"placeholder": "Telefon"
+					},
+					"checkbox": "Ich stimme zu, dass meine Daten zum Zweck zur Personalanfrage von medlink verarbeitet werden. Mehr Informationen und das Widerrufsrecht finden Sie in unserer <0>{{dlink}}</0>.",
+					"checkbox_link_name": "Datenschutzerklärung",					
+					"button": "Absenden",
+					"call": "Kontaktieren sie uns telefonisch",
+					"phone_number": "(+49) 800 211 25 25"
+				},
+				"clinics": {
+					"header": "Kontaktformular für Anfragen",
+					"label": "Name der Einrichtung"
+				},
+				"agencies": {
+					"header": "Kontaktformular für Anfragen",
+					"label": "Name der Organisation"
+				},
+				"general": {
+					"header": "Kontaktformular",
+					"label": "Name der Organisation"
+				},
+				"title": "Anrede",
+				"firstname": "Vorname",
+				"lastname": "Nachname",
+				"email": "E-mail Addresse",
+				"contact": "Telefonnummer",
+				"message": "Ihre Nachricht",
+				"agree": "Ich erkläre mich damit einverstanden, dass meine Daten zur Bearbeitung meines Anliegens verwendet und gespeichert werden. Weitere Informationen und Widerrufshinweise finden Sie in der Datenschutzerklärung.*",
+				"agree2": "*Pflichtangabe",
+				"send": "Absenden"
+			}
+		}
+	},
+	"home": {
+		"landing": {
+			"title": "Personelle Engpässe auflösen:<0></0>schnell – effektiv – digital",
+			"meta": [
+				{
+					"_id": 1,
+					"name": "title",
+					"content": "Personalbeschaffung & Ausfallmanagement für Kliniken | Medlink"
+				},{
+					"_id": 2,
+					"name": "description",
+					"content": "Digitale Lösungen fürs Gesundheitswesen: ✓ Personalbeschaffung ✓ Ausfallmanagement ✓ Personalengpässe ✓ Prozessoptimierung | Mehr erfahren bei medlink"
+				}
+			],
+			"search": {
+				"intro-image": {
+					"src": "/static/img/background/intro-search.jpg",
+					"alt": "Medlink: Personalbeschaffung und Ausfallmanagement für Kliniken"
+				},
+				"search-form": {
+					"specialist": "Wir suchen eine(n)",
+					"specialist_placeholder": "z.B. Assistenzarzt",
+					"organisation": "Im Bereich",
+					"organisation_placeholder": "z.B. Kardiologie",
+					"search-button": "Suchen",
+					"title": "Mit einem Klick wird Ihre Anfrage an über 200 Personalpartner weitergeleitet.",
+					"subtitle": "Bitte füllen Sie die Form aus",
+					"date-placeholder": "Ab jetzt",
+					"hospital-name-placeholder": "Krankenhaus",
+					"name-placeholder": "Ihr Name",
+					"email-placeholder": "Email",
+					"phone-placeholder": "Telefon",
+					"checkbox": "Ich stimme zu, dass meine Daten zum Zweck zur Personalanfrage von medlink verarbeitet werden. Mehr Informationen und das Widerrufsrecht finden Sie in unserer <0>{{dlink}}</0>.",
+					"checkbox-link-name": "Datenschutzerklärung",
+					"submit-button": "Absenden",
+					"call": "Kontaktieren sie uns telefonisch",
+					"phone-number": "(+49) 800 211 25 25"
+				}
+			},
+			"our-partners": {
+				"title": "Unsere Partner",
+				"list": [
+					{
+						"_id": "1",
+						"imgSrc": "/static/img/icons/partner-1.svg",
+						"imgAlt": ""
+					},
+					{
+						"_id": "2",
+						"imgSrc": "/static/img/icons/partner-2.svg",
+						"imgAlt": ""
+					},
+					{
+						"_id": "3",
+						"imgSrc": "/static/img/icons/partner-3.svg",
+						"imgAlt": ""
+					},
+					{
+						"_id": "4",
+						"imgSrc": "/static/img/icons/partner-4.svg",
+						"imgAlt": ""
+					},
+					{
+						"_id": "5",
+						"imgSrc": "/static/img/icons/partner-5.svg",
+						"imgAlt": ""
+					},
+					{
+						"_id": "6",
+						"imgSrc": "/static/img/icons/partner-6.svg",
+						"imgAlt": ""
+					},
+					{
+						"_id": "7",
+						"imgSrc": "/static/img/icons/partner-7.svg",
+						"imgAlt": ""
+					},
+					{
+						"_id": "8",
+						"imgSrc": "/static/img/icons/partner-8.svg",
+						"imgAlt": ""
+					},
+					{
+						"_id": "9",
+						"imgSrc": "/static/img/icons/partner-9.svg",
+						"imgAlt": ""
+					}
+				]
+			},
+			"platform": {
+				"title": "Smartes Ausfallmanagement",
+				"subtitle": "und modernisierte Personalbeschaffung",
+				"text": [
+					"Unsere Plattform vernetzt digital medizinische Einrichtungen mit Zeitarbeitsfirmen, Aushilfskräften und weiteren externen Arbeitskräften aus dem Pflege- und Ärztebereich und ist damit zeit- und kosteneffizient. Fachkräftemangel und Kostendruck in Kliniken verschärfen sich stetig.",
+					"medlink bietet Ihnen digitale Lösungen für das klinische Personal- und Ausfallmanagement, die Organisation, Kommunikation und Koordination optimieren. Unsere Plattform vernetzt digital medizinische Einrichtungen mit Personaldienstleistern, Aushilfskräften und weiteren externen Arbeitskräften aus dem Pflege- und Ärztebereich. So finden Sie zeit- und kosteneffizient Personal für Ihr Haus – passgenau und Ihren Anforderungen entsprechend. Dabei steht Ihre Zufriedenheit für uns an erster Stelle. Digitalisieren Sie jetzt Personalbeschaffung und Ausfallmanagement."
+				],
+				"image": {
+					"src": "static/img/background/medlink-platform.png",
+					"alt": "medlink: eine Platform"
+				}
+			},
+			"features": {
+				"title": "Personal entlasten dank digitalem Rundum-Service",
+				"list": [
+					{
+						"_id": "1",
+						"title": "Ein Ansprechpartner<0></0>für alle",
+						"text": "Als Ihr Partner bei personellen Engpässen vernetzen wir Sie mit zahlreichen Anbietern und finden in Echtzeit idealen Ersatz. Ohne zeitraubendes Abtelefonieren und lästigen E-Mail-Spam – für maximale Effizienz.",
+						"image": {
+							"src": "/static/img/icons/feature-1.svg",
+							"alt": "Ausfallmanagement: Ansprechpartner"
+						}
+					},
+					{
+						"_id": "2",
+						"title": "Umgehende Rückmeldung",
+						"text": "Sie erhalten das Feedback der Anbieter in Echtzeit über unsere digitale Plattform. Wählen Sie das ideale Personal, basierend auf Profil und Referenzen. Mit wenigen Klicks decken Sie personelle Ausfälle.",
+						"image": {
+							"src": "/static/img/icons/feature-2.svg",
+							"alt": "Personal: Feedback"
+						}
+					},
+					{
+						"_id": "3",
+						"title": "Digitale Entlastung",
+						"text": "Mit automatisierten und standardisierten digitalen Arbeitsprozessen erleichtern wir den Arbeitsalltag Ihrer Mitarbeiter. So entlasten Sie die Personalabteilung und schaffen Freiräume für die wesentlichen Tätigkeiten.",
+						"image": {
+							"src": "/static/img/icons/feature-3.svg",
+							"alt": "Arbeitsprozesse: digitale Entlastung"
+						}
+					}
+				]
+			},
+			"how-it-work": {
+				"title": "Personalbeschaffung in 3 Schritten",
+				"subtitle": "Von der Anfrage bis zu den passenden Angeboten innerhalb von wenigen Minuten: medlink macht es Ihnen leicht, Zeit und Kosten zu sparen – mit vollautomatischer Abwicklung und maximaler Transparenz.",
+				"list": [
+					{
+						"_id": "1",
+						"title": "Individuelle Anfrage stellen",
+						"text": "Erstellen Sie auf medlink innerhalb von einer Minute Ihr Anforderungsprofil und schalten Sie die Personalanfrage online. Unser Matching-Algorithmus leitet das individuelle Profil in Echtzeit an unser Personalnetzwerk weiter.",
+						"image": {
+							"src": "/static/img/background/postJob.png",
+							"alt": "medlink: simple anfragen"
+						}
+					},
+					{
+						"_id": "2",
+						"title": "Passende Angebote erhalten",
+						"text": "Bereits nach wenigen Minuten erhalten Sie eine Auswahl an passgenauen Bewerbern. Die Personalprofile inkl. Qualifikationsnachweisen und Empfehlungen erleichtern Ihnen die Auswahl der optimalen Besetzung. So gehen Sie bereits im Vorfeld sicher, dass die Bewerber optimal in Ihr Team passen.",
+						"image": {
+							"src": "/static/img/background/medlink-platform.png",
+							"alt": "medlink: passende angebote"
+						}
+					},
+					{
+						"_id": "3",
+						"title": "Vollautomatisiert abwickeln",
+						"text": "Die komplette administrative Abwicklung der Vermittlungsprozesse übernimmt medlink für Sie in digitaler Form. Damit entlasten wir Sie vom Vertragsmanagement bis hin zur Rechnungsabwicklung. Gleichzeitig ist die maximale Transparenz gewährleistet: Sämtliche Schritte sind für Sie einzusehen und nachzuvollziehen.",
+						"image": {
+							"src": "/static/img/background/applicant_details.png",
+							"alt": "medlink: vollautomatisch"
+						}
+					}
+				]
+			},
+			"feedbacks": {
+				"list": [
+					{
+						"_id": "1",
+						"text": "Der Fachkräftemangel ist für uns als große Einrichtung ein tägliches Thema. Wir nutzen deshalb medlink gerne, weil wir dort einen großen Zugriff an kompetentes Personal haben und es schnell und unbürokratisch läuft.",
+						"author": "Markus H. (Personalabteilungsleiter)"
+					},
+					{
+						"_id": "2",
+						"text": "Mit medlink haben wir die Möglichkeit in kürzester Zeit Personal anzufragen und unmittelbar Antwort zu erhalten – ohne den Hörer in die Hand nehmen zu müssen. Das erleichtert unseren Arbeitsalltag immense und spart viel Zeit.",
+						"author": "Leonie. F"
+					}
+				]
+			},
+			"find-out-more": {
+				"title": "Personalressourcen effizient steuern",
+				"text": "Nutzen Sie unsere intelligente Personalmanagement-Software, um Ihren Personaleinsatz zu optimieren.",
+				"button-text": "Jetzt suchen",
+				"image": {
+					"src": "/static/img/background/find-out-more.jpg",
+					"alt": "medlink: Jetzt suchen"
+				}
+			},
+			"contact-us-intro": {
+				"title": "Haben Sie Fragen?",
+				"text": "Wir sind für Sie da. Unsere Kolleginnen und Kollegen stehen Ihnen persönlich zur Verfügung und helfen Ihnen gerne bei der Registrierung."
+			}
+		}
+	},
+	"innovation": {
+		"title": "Innovative Personalplanung",
+		"meta": [{
+			"_id": 1,
+			"name": "title",
+			"content": "Digitalisierung im Gesundheitswesen | medlink"
+		},{
+			"_id": 2,
+			"name": "description",
+			"content": "Digitale Lösungen fürs Gesundheitswesen: ✓ Personalplanung ✓ Effizienzsteigerungen ✓ automatisierte Dienstplanerstellung | Mehr erfahren bei medlink"
+		}],
+		"staff": {
+			"title": "Personal managen mit digitalen Lösungen",
+			"text": [
+				"Modernisieren Sie das Personalmanagement in Ihrem Haus. Und setzen Sie auf die innovativen Lösungen von medlink. Unsere digitale Plattform entlastet Ihre Mitarbeiter in der Verwaltung und Koordination der alltäglichen Arbeitsläufe und steigert umgehend die Effizienz.",
+				"In enger Zusammenarbeit mit Ihnen entwickeln wir Lösungskonzepte, die optimal an die spezifischen Anforderungen und Bedürfnisse Ihrer Einrichtung angepasst sind. So entsteht ein individueller, digitaler Komplettservice, der zu langfristigem Erfolg führt und dauerhaft die Effizienz optimiert."
+			],
+			"image": {
+				"src": "/static/img/background/innovation-staff.jpg",
+				"alt": ""
+			},
+			"image-mobile": {
+				"src": "/static/img/background/innovation-staff-mobile.png",
+				"alt": ""
+			},
+			"image-tablet": {
+				"src": "/static/img/background/innovation-staff-tablet.png",
+				"alt": ""
+			}
+		},
+		"challenge": {
+			"title": "Herausforderungen",
+			"list": [
+				{
+					"_id": "1",
+					"title": "Work-Life-Balance verbessern",
+					"image": {
+						"src": "/static/img/background/challenge-1.jpg",
+						"alt": ""
+					}
+				},
+				{
+					"_id": "2",
+					"title": "Unnötige Administration reduzieren",
+					"image": {
+						"src": "/static/img/background/challenge-2.jpg",
+						"alt": ""
+					}
+				},
+				{
+					"_id": "3",
+					"title": "Patientenzu-friedenheit steigern",
+					"image": {
+						"src": "/static/img/background/challenge-3.jpg",
+						"alt": ""
+					}
+				}
+			]
+		},
+		"solution": {
+			"title": "Aktuelle Funktionen beinhalten",
+			"list": [
+				{
+					"_id": "1",
+					"title": "Lassen Sie die Krankenpflege ihre Arbeitstage einfach selbst auswählen.",
+					"image": {
+						"src": "/static/img/background/solution-1.png",
+						"alt": ""
+					}
+				},
+				{
+					"_id": "2",
+					"title": "Geben Sie den Mitarbeitern die Möglichkeit, Schichten einfach zu tauschen.",
+					"image": {
+						"src": "/static/img/background/solution-1.png",
+						"alt": ""
+					}
+				},
+				{
+					"_id": "3",
+					"title": "Stellen Sie sicher, dass Sie im Krankheitsfall immer Ersatz bekommen.",
+					"image": {
+						"src": "/static/img/background/solution-1.png",
+						"alt": ""
+					}
+				}
+			]
+		},
+		"how-it-work": {
+			"title": "Aktuelle Funktionen beinhalten",
+			"subtitle": "",
+			"list": [
+				{
+					"_id": "1",
+					"title": "Digitaler Personal-Pool",
+					"text": "Kommunizieren Sie in Echtzeit und koordinieren Sie Ihre Mitarbeiter innerhalb der Station bzw. zwischen den Stationen. Mit digitalisierten, standardisierten Prozesseren werden kurzfristige Änderungen, Dienstanfragen oder weitere Information direkt untereinander geteilt.",
+					"image": {
+						"src": "/static/img/background/solution-1.png",
+						"alt": ""
+					}
+				},
+				{
+					"_id": "2",
+					"title": "Schichttausch erleichtern",
+					"text": "Bei kurzfristigem Ausfall können die Mitarbeiter auf einfache Weise ihre Schichten miteinander tauschen. Das minimiert die Anzahl der Krankheitstage und deckt Ausfälle durch eigenes Personal.",
+					"image": {
+						"src": "/static/img/background/solution-1.png",
+						"alt": ""
+					}
+				},
+				{
+					"_id": "3",
+					"title": "Smartes Ausfallmanagement",
+					"text": "Offene Personalanfragen werden automatisch durch das System erkannt, bearbeitet und mittels Smart-Matching schnellstmöglich an passende Fachkräfte weitergeleitet.",
+					"image": {
+						"src": "/static/img/background/solution-1.png",
+						"alt": ""
+					}
+				}
+			]
+		},
+		"outcome": {
+			"title": "Eine Lösung zum effizienten Personalmanagement",
+			"subtitle": "Gemeinsam mit Ihnen identifizieren wir Schwachstellen im Klinikalltag und entwickeln maßgeschneiderte Lösungen auf digitaler Basis. Auf dieser Basis bieten wir Ihnen eine digitale Infrastruktur. Mit unserer internen Lösung kommunizieren Sie in Echtzeit und koordinieren Sie Ihre Mitarbeiter innerhalb der Station bzw. zwischen den Stationen. Mit digitalisierten, standardisierten Prozessen werden kurzfristige Änderungen, Dienstanfragen oder weitere Information direkt untereinander geteilt. Somit können Sie flexibler, effizienter, zeit- und kostensparender arbeiten und den Personaleinsatz auf allen Ebenen optimieren.",
+			"list": []
+		},
+		"secondary": {
+			"outcome": {
+				"title": "Erfolge",
+				"subtitle": "",
+				"list": [
+					{
+						"_id": "1",
+						"title": "Von 2h zu 5m",
+						"subtitle": "Zeit sparen für mehr Effizienz",
+						"image": {
+							"src": "/static/img/icons/outcome-1.svg",
+							"alt": ""
+						}
+					},
+					{
+						"_id": "2",
+						"title": "70% weniger",
+						"subtitle": "Nachfrage nach externem Personal",
+						"image": {
+							"src": "/static/img/icons/outcome-2.svg",
+							"alt": ""
+						}
+					},
+					{
+						"_id": "3",
+						"title": "1.5 FTE",
+						"subtitle": "Mehr Zeit für wichtigere Aufgaben",
+						"image": {
+							"src": "/static/img/icons/outcome-3.svg",
+							"alt": ""
+						}
+					}
+				]
+			}
+		},
+		"contact-us-intro": {
+			"title": "Haben Sie Fragen?",
+			"text": "Wir sind für Sie da. Unsere Kolleginnen und Kollegen stehen Ihnen persönlich zur Verfügung und helfen Ihnen gerne bei der Registrierung."
+		}
+	},
+	"partners": {
+		"title": "Weniger Aufwand – mehr Anfragen",
+		"meta": [{
+			"_id": 1,
+			"name": "title",
+			"content": "Partner für Personalagenturen im medizinischen Bereich | medlink"
+		},{
+			"_id": 2,
+			"name": "description",
+			"content": "Jetzt Ihr Kundennetzwerk erweitern: Personalanfragen aus dem medizinischen Bereich direkt an Sie | Mehr erfahren bei Medlink"
+		}],
+		"intro-image": {
+			"src": "/static/img/background/intro-partners.jpg",
+			"alt": ""
+		},
+		"our-network": {
+			"title": "Mehr Personalanfragen erhalten",
+			"text": "Setzen Sie auf medlink, um gezielt mehr Personalanfragen aus dem medizinischen Bereich zu generieren und Umsätze zu steigern.",
+			"image": {
+				"src": "/static/img/background/partners-network.jpg",
+				"alt": "medlink: Partner der Personalagenturen für Personalanfragen im medizinischen Bereich"
+			},
+			"list": [
+				{
+					"_id": "1",
+					"title": "Komfortables Auffinden passender Personalanfragen"
+				},
+				{
+					"_id": "2",
+					"title": "Schneller Abgleich von Anforderungs- und Bewerberprofilen"
+				},
+				{
+					"_id": "3",
+					"title": "Effizienter Einsatz Ihrer Personalressourcen"
+				},
+				{
+					"_id": "4",
+					"title": "Mehr Zeit für Kernaufgaben statt zeitaufwändige Vermittlungsprozesse"
+				},
+				{
+					"_id": "5",
+					"title": "Zeit und Kosten für aufwändige Akquise im Gesundheitswesen sparen"
+				}
+			]
+		},
+		"how-it-work": {
+			"title": "So einfach geht’s",
+			"subtitle": "",
+			"list": [
+				{
+					"_id": "1",
+					"title": "Dienstanfrage erhalten",
+					"text": "Sie erhalten über unsere Plattform individuelle Anforderungsprofile, die Sie einfach und digital mit Ihren Bewerberprofilen abgleichen können. Unsere Profile enthalten alle wesentlichen Informationen.",
+					"image": {
+						"src": "/static/img/background/newJobs.png",
+						"alt": "medlink: dienstanfragen"
+					}
+				},
+				{
+					"_id": "2",
+					"title": "Direktes Matching",
+					"text": "Mit nur einem Angebot melden Sie unserer Plattform verfügbare Mitarbeiter und geben ein Angebot ab. Das Matching erfolgt innerhalb von wenigen Minuten.",
+					"image": {
+						"src": "/static/img/background/newJobs_details.png",
+						"alt": "medlink: angebote"
+					}
+				},
+				{
+					"_id": "3",
+					"title": "Vollständige Abwicklung",
+					"text": "medlink übernimmt die komplette Abwicklung des Vermittlungsprozesses für Sie in digitaler Form. Wir entlasten Sie vom Vertragsmanagement bis zur Rechnungsabwicklung. Natürlich stehen wir Ihnen jederzeit als persönlicher Ansprechpartner zur Verfügung.",
+					"image": {
+						"src": "/static/img/background/partnerDashboard.png",
+						"alt": "medlink: komplette Abwicklung"
+					}
+				}
+			]
+		},
+		"advantages": {
+			"title": "Vorteile für Personalagenturen",
+			"list": [
+				{
+					"_id": "1",
+					"title": "Effektiver Sales-Channel für Kundengewinnung",
+					"text": "",
+					"image": {
+						"src": "/static/img/icons/advantages-1.svg",
+						"alt": "medlink Vorteil: Effektiver Sales-Channel"
+					}
+				},
+				{
+					"_id": "2",
+					"title": "Deutlich mehr Zeit für die Akquise von Personal",
+					"text": "",
+					"image": {
+						"src": "/static/img/icons/advantages-2.svg",
+						"alt": "medlink Vorteil: Mehr Zeit für Personalakquise"
+					}
+				},
+				{
+					"_id": "3",
+					"title": "Mehr Effizienz: kein lästiger Papierkrieg mehr",
+					"text": "",
+					"image": {
+						"src": "/static/img/icons/advantages-3.svg",
+						"alt": "medlink Vorteil: mehr Effizienz"
+					}
+				}
+			]
+		},
+		"contact-us-intro": {
+			"title": "Haben Sie Fragen?",
+			"text": "Wir sind für Sie da. Unsere Kolleginnen und Kollegen stehen Ihnen persönlich zur Verfügung und helfen Ihnen gerne bei der Registrierung."
+		}
+	},
+	"about-us": {
+		"title": "Digitale Kompetenz<0></0>für klinisches Personal",
+		"meta": [{
+			"_id": 1,
+			"name": "title",
+			"content": "Digitale Kompetenz für klinisches Personal | medlink"
+		},{
+			"_id": 2,
+			"name": "description",
+			"content": "Profitieren Sie von unserer digitalen Kompetenz für Beschaffung von klinischem Personal ✓ Erfahrungen ✓ Lösungen ✓ Partner | Mehr erfahren bei medlink"
+		}],
+		"intro-image": {
+			"src": "/static/img/background/intro-about-us.jpg",
+			"alt": "medlink: Personalberatung und digitale Kompetenz die Beschaffung von medizinischem Personal"
+		},
+		"intro-image-tablet": {
+			"src": "/static/img/background/intro-about-us-tablet.png",
+			"alt": "medlink: Personalberatung und digitale Kompetenz die Beschaffung von medizinischem Personal"
+		},
+		"intro-image-mobile": {
+			"src": "/static/img/background/intro-about-us-mobile.png",
+			"alt": "medlink: Personalberatung und digitale Kompetenz die Beschaffung von medizinischem Personal"
+		},
+		"our-partners": {
+			"title": "Unsere Partner zu Ihrem Erfolg",
+			"list": [
+				{
+					"_id": "1",
+					"imgSrc": "/static/img/icons/partner-1.svg",
+					"imgAlt": ""
+				},
+				{
+					"_id": "2",
+					"imgSrc": "/static/img/icons/partner-2.svg",
+					"imgAlt": ""
+				},
+				{
+					"_id": "3",
+					"imgSrc": "/static/img/icons/partner-3.svg",
+					"imgAlt": ""
+				},
+				{
+					"_id": "4",
+					"imgSrc": "/static/img/icons/partner-4.svg",
+					"imgAlt": ""
+				},
+				{
+					"_id": "5",
+					"imgSrc": "/static/img/icons/partner-5.svg",
+					"imgAlt": ""
+				},
+				{
+					"_id": "6",
+					"imgSrc": "/static/img/icons/partner-6.svg",
+					"imgAlt": ""
+				},
+				{
+					"_id": "7",
+					"imgSrc": "/static/img/icons/partner-7.svg",
+					"imgAlt": ""
+				},
+				{
+					"_id": "8",
+					"imgSrc": "/static/img/icons/partner-8.svg",
+					"imgAlt": ""
+				},
+				{
+					"_id": "9",
+					"imgSrc": "/static/img/icons/partner-9.svg",
+					"imgAlt": ""
+				}
+			]
+		},
+		"our-promise": {
+			"title": "medlink: Unsere Vision",
+			"subtitle": "",
+			"list": [
+				{
+					"_id": "1",
+					"title": "Unsere Vision",
+					"text": "Die Situation ist bekannt: unterbesetzte Stationen, überfordertes klinisches Personal und überfüllte Krankenhäuser. Die Gründer von medlink wissen aus erster Hand, welche Auswirkungen der Personalstand auf Pfleger, Ärzte und welcher Aufwand von den Mitarbeitern in der Personalverwaltung zu bewältigen ist. Unsere Vision ist es, den klinischen Alltag durch den Einsatz innovativer Technologien zu erleichtern.",
+					"image": {
+						"src": "/static/img/background/promise-main-1.jpg",
+						"src-mobile": "/static/img/background/promise-main-mobile-1.png",
+						"alt": "medlink vision"
+					},
+					"icon": {
+						"src": "/static/img/icons/promise-1.svg",
+						"alt": ""
+					}
+				},
+				{
+					"_id": "2",
+					"title": "Über uns",
+					"text": "Bei medlink vereinen wir Fachwissen aus der Medizin, der Informationstechnik und der Personalberatung, um unseren Kunden die bestmögliche Leistung auf allen Ebenen zu bieten. Dabei stehen für uns Vertrauen und Verantwortung an erster Stelle. Unterstützt von einem starken Netzwerk ebnen wir den Weg in eine digitalisierte Arbeitswelt.",
+					"image": {
+						"src": "/static/img/background/promise-main-2.jpg",
+						"src-mobile": "/static/img/background/promise-main-mobile-2.png",
+						"alt": "medlink das team"
+					},
+					"icon": {
+						"src": "/static/img/icons/promise-2.svg",
+						"alt": ""
+					}
+				},
+				{
+					"_id": "3",
+					"title": "Gemeinsam zum Erfolg",
+					"text": "medlink wird durch das Bundesministerium für Wirtschaft und Innovation und vom Europäischen Sozialfond gefördert. In enger Zusammenarbeit mit der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Universität zu Köln nutzt unser Team von Ärzten und Forschern Technologien wie die Künstliche Intelligenz, um innovative Lösungskonzepte für Gesundheitseinrichtungen zu entwickeln.",
+					"image": {
+						"src": "/static/img/background/promise-main-3.jpg",
+						"src-mobile": "/static/img/background/promise-main-mobile-3.png",
+						"alt": "medlink Erfolg"
+					},
+					"icon": {
+						"src": "/static/img/icons/promise-3.svg",
+						"alt": ""
+					}
+				}
+			]
+		},
+		"contact-us-intro": {
+			"title": "Haben Sie Fragen?",
+			"text": "Wir sind für Sie da. Unsere Kolleginnen und Kollegen stehen Ihnen persönlich zur Verfügung und helfen Ihnen gerne bei der Registrierung."
+		}
+	},
+	"agb": {
+		"title": "Allgemeine Nutzungsbedingungen für die Internetplattform medlink.de",
+		"date": "Zulezt aktualisiert: 12 Mai 2020",
+		"meta": [{
+			"name": "",
+			"content": ""
+		}],
+		"list": [
+			{
+				"_id": 1,
+				"title": "Geltungsbereich, Nutzerinformationen",
+				"text" : "",
+				"sublist": [
+					{
+						"_id": "1.1",
+						"text": "Die nachfolgenden Allgemeinen Geschäftsbedingungen (AGB) regeln die mit der Nutzung der Internetplattform www.medlink.de des Unternehmens<0></0><0></0><1>MedLink UG (haftungsbeschränkt)</1><0></0>Am Botanischen Garten 30 50735 Köln<0></0>Deutschland<0></0>E-Mail: <2>info@medlink.de</2><0></0><0></0>(nachfolgend: \"MedLink\") im Zusammenhang stehenden Rechte und Pflichten und das Vertragsverhältnis von MedLink und den Nutzern der Plattform (nachfolgend: \"Nutzer\").<0></0><0></0>Der Nutzer kann diese AGB unter der Webadresse www.medlink.de jederzeit aufrufen und mit Hilfe seines Internetbrowsers ausdrucken und auf seinem Rechner speichern.",
+						"href": "mailto:info@medlink.de"
+					},{
+						"_id": "1.2",
+						"text": "Abweichende, entgegenstehende oder ergänzende Allgemeine Geschäftsbeding- ungen des Nutzers werden nicht Vertrags- bestandteil, es sei denn, ihrer Geltung wird ausdrücklich in Schriftform (§ 126 BGB) zugestimmt."
+					},{
+						"_id": "1.3",
+						"text": "Die Vertragssprache ist deutsch."
+					},{
+						"_id": "1.4",
+						"text": "Die Regelungen dieser AGB gelten für Beauftragungen von MedLink per E-Mail oder Telefon entsprechend. Dem Kunden werden diese AGB im Rahmen der erstmaligen Beauftragung per Mail oder Telefon übermittelt."
+					}
+				]
+			},
+			{
+				"_id": 2,
+				"title": "Angebot von MedLink / Vertragsschluss",
+				"text": "",
+				"sublist": [
+					{
+						"_id": "2.1",
+						"text": "MedLink erbringt digitale Personaldienstleistungen für medizinische Einrichtungen und stellt auf www.medlink.de seinen Nutzern eine Plattform zur Personalvermittlung im medizinischen  Bereich zur Verfügung. Nutzer sind medizinische Einrichtungen auf der einen Seite und Zeitarbeitsfirmen sowie Personalvermittlungsagenturen auf der anderen Seite."
+					},{
+						"_id": "2.2",
+						"text": "Über medlink.de können die Nutzer untereinander autonom und eigenverantwortlich Verträge abschließen. Aus den Verträgen werden lediglich die beteiligten Nutzer verpflichtet und berechtigt, sodass die Erfüllung des Vertrages ausschließlich in deren Verantwortung liegt."
+					},{
+						"_id": "2.3",
+						"text": "Eine Verpflichtung von MedLink zur Kontrolle des Verhaltens der Nutzer auf der zur Verfügung gestellten Plattform besteht nicht. MedLink ist aber berechtigt, jedoch nicht verpflichtet, die durch Nutzer eingestellten Angebote und sonstigen Veröffentlichungen zu überprüfen."
+					},{
+						"_id": "2.4",
+						"text": "MedLink veröffentlicht auf der Plattform auf Angaben der inserierenden Nutzer basierende Stellenangebote sowie Stellenangebote, die durch die inserierenden Nutzer eigenständig erstellt werden. Inserate, die auf Angaben der Nutzer beruhen, werden erst online gestellt, wenn der Inhalt der Anzeige durch den Inserenten in Textform (z.B. per E-Mail) freigegeben wurde."
+					},{
+						"_id": "2.5",
+						"text": "In den Fällen, in denen die Beauftragung von MedLink nicht über die Internetplattform, sondern per E-Mail oder Telefon erfolgt, informiert potentielle Interessenten, insbesondere aus dem vorhandenen Netzwerk - ggf. nach Erstellung eines entsprechenden Stellen- oder Anforderungsprofils –, über den Auftrag. Die Vermittlungstätigkeit kann bei einer Erstellung von Stellen- oder Anforderungsprofilen durch MedLink erst erfolgen, wenn das Profil durch den Auftraggeber in Textform (z.B. per E-Mail) freigegeben wurde."
+					},{
+						"_id": "2.6",
+						"text": "Die Veröffentlichung der Anzeige bzw. das weitere Tätigwerden von MedLink ist erst möglich, sobald MedLink alle erforderlichen Informationen und ggf. Vorlagen für Inserate bereitgestellt werden. Liegen diese Voraussetzungen vor, erfolgt die Veröffentlichung bzw. weitere Tätigkeit unverzüglich nach Abschluss erforderlicher Erstellungsarbeiten. MedLink behält sich vor, Inserate und Bewerbungen wegen des Inhalts, der Herkunft oder der technischen Form nach internen, sachlich gerechtfertigten Grundsätzen abzulehnen, wenn die Veröffentlichung oder Bewerbung aufgrund eines Verstoßes gegen Gesetze oder behördliche Bestimmungen oder aus sonstigen Gründen unzumutbar ist."
+					}
+				]
+			},{
+				"_id": 3,
+				"title": "Anmeldung / Ausschluss / Kündigung",
+				"text": "",
+				"sublist" : [
+					{
+						"_id": "3.1",
+						"text": "Anzeigen schalten und/oder sich zur Plattform anmelden können sich sowohl natürliche als auch juristische Personen. Natürliche Personen müssen für eine Beauftragung von MedLink bzw. eine Anmeldung auf medlink.de das 18. Lebensjahr vollendet haben und geschäftsfähig sein."
+					},{
+						"_id": "3.2",
+						"text": "Der Nutzer hat sich auf der Internetseite www.medlink.de unter vollständiger und korrekter Angabe der dort abgefragten Daten zu registrieren und der Geltung der vorliegenden AGB zuzustimmen. MedLink ist berechtigt, eine Registrierung abzulehnen. MedLink behält sich vor, weitere Unterlagen anzufordern, die die Legitimation belegen (z.B. Kopie des Personalausweises, Gewerbeschein, Lizenz für Arbeitnehmerüberlassung). Zeitarbeitsfirmen und Personalvermittlungsagenturen sind dazu verpflichtet, MedLink eine gültige Lizenz zur Arbeitnehmerüberlassung auf Anforderung vorzulegen. Entfällt die Gültigkeit, ist MedLink hierüber unverzüglich zu informieren."
+					},{
+						"_id": "3.3",
+						"text": "Mit der Anmeldung ermächtigt der Nutzer MedLink seine personenbezogenen Daten zu erheben, zu speichern, zu verarbeiten und diese zu eigenen Zwecken unter Berücksichtigung der gesetzlichen Vorgaben (u.a. DSGVO) zu nutzen sowie diese potentiellen Vertragspartnern zur Verfügung zu stellen. Nähere Informationen hierzu stellt MedLink in der Datenschutzerklärung zur Verfügung."
+					},{
+						"_id": "3.4",
+						"text": "Im Rahmen des Anmeldeprozesses hat der Nutzer eine E-Mail-Adresse und ein Passwort anzugeben. Er verpflichtet sich, dafür Sorge zu tragen, dass keine unbefugten Dritten Kenntnis von seinem Passwort erhalten. Ist dies dennoch erfolgt bzw. liegen dem Nutzer entsprechende Anhaltspunkte hierfür vor, so ist der Nutzer verpflichtet, dies MedLink unverzüglich mitzuteilen. Die gewählte E-Mail-Adresse darf weder gegen die guten Sitten verstoßen noch in sonstiger Weise unzulässig sein oder Rechte Dritter verletzen."
+					},{
+						"_id": "3.5",
+						"text": "Ändern sich nach der Anmeldung die Daten des Nutzers, ist dieser verpflichtet, die Angaben in seinem Nutzerkonto unverzüglich zu aktualisieren."
+					},{
+						"_id": "3.6",
+						"text": "Die Nutzungsberechtigung im ganzen sowie einzelne Rechte und Pflichten aus dieser können nicht auf Dritte übertragen werden."
+					},{
+						"_id": "3.7",
+						"text": "Das Vertragsverhältnis zwischen MedLink und dem jeweiligen Nutzer kann durch den Nutzer jederzeit ohne Angabe von Gründen nach Beendigung des letzten geschalteten Inserats gekündigt werden. MedLink ist berechtigt, das mit dem Nutzer bestehende Vertragsverhältnis mit einer Frist von zwei Wochen zum Ende des Monats zu kündigen. Das Recht zur außerordentlichen Kündigung aus wichtigem Grund bleibt für die Vertragsparteien unberührt. Ein wichtiger Grund liegt für MedLink insbesondere vor, wenn der Nutzer mit Zahlungen an MedLink in Verzug gerät, falsche Kontaktdaten angegeben wurden, Kontaktdaten anderer Nutzer an unbefugte Dritte weitergegeben wurden oder gegen diese AGB oder gegen gesetzliche Regelungen verstoßen wurde, insbesondere wenn Arbeitnehmerüberlassungen ohne Vorliegen der erforderlichen Lizenz angebahnt oder durchgeführt wurden."
+					},{
+						"_id": "3.8",
+						"text": "Wurde ein Nutzer gem. Ziff. 7 ausgeschlossen, steht ihm kein Recht zu, sich erneut bei medlink.de anzumelden, ohne dass er zuvor eine Einwilligung von MedLink eingeholt hat. Dies gilt sowohl für eine Anmeldung unter eigenem als auch unter fremdem Namen."
+					},{
+						"_id": "3.9",
+						"text": "Die Kündigung des Vertragsverhältnisses zwischen MedLink und dem jeweiligen Nutzer hat keine Auswirkungen auf Rechtsgeschäfte, für die MedLink bis zum Zeitpunkt des Wirksamwerdens der Kündigung bereits tätig war (z.B. Namhaftmachung einer Geschäftsgelegenheit), sofern das vermittelte Rechtsgeschäft – auch nach erfolgter Vertragsbeendigung mit MedLink – zustande kommt."
+					}
+				]
+			},{
+				"_id": 4,
+				"title": "Speicherung des Angebotstextes",
+				"text": "",
+				"sublist" : [
+					{
+						"_id": "4.1",
+						"text": "Der Vertragstext der Vereinbarung zwischen Nutzer und MedLink wird von MedLink gespeichert. Der Nutzer hat über das Internet keinen Zugriff auf den Vertragstext, kann die hinterlegten Daten aber in seinem Nutzerkonto aufrufen."
+					},{
+						"_id": "4.2",
+						"text": "Die auf der Internetplattform hinterlegten Daten können unmittelbar vor Abschluss des Anmeldevorgangs durch den Nutzer ausgedruckt werden. Zudem erhält der Nutzer per E-Mail eine Anmeldebestätigung mit allen relevanten Daten."
+					}
+				]
+			},{
+				"_id": 5,
+				"title": "Korrekturhinweis",
+				"text": "Der Nutzer kann seine Eingaben vor Abgabe der Anmeldung zur Internetplattform jederzeit über den Zurück-Button des Browsers oder entsprechende Buttons der Plattform berichtigen oder über das MedLink-Logo zurück auf die Startseite gelangen, den Anmeldeprozess damit abbrechen und ggf. neu beginnen.",
+				"sublist" : [
+				]
+			},{
+				"_id": 6,
+				"title": "Verfügbarkeit von medlink.de / Technische Eingriffe",
+				"text": "",
+				"sublist" : [
+					{
+						"_id": "6.1",
+						"text": "MedLink ist stets um eine ununterbrochene Verfügbarkeit der Webseite medlink.de sowie um eine fehlerfreie Übermittlung sämtlicher Daten, die über die Seite ausgetauscht werden, bemüht. Dies kann aufgrund der Beschaffenheit des Internets aber nicht garantiert werden. Unvorhersehbare Systemausfälle sind ebenso möglich wie notwendige Wartungsarbeiten, Instandsetzungen oder die Einführung von neuen Services. MedLink berücksichtigt hierbei die berechtigten Interessen der Nutzer. Sollten Datenverluste auftreten, übernimmt MedLink hierfür keine Haftung, sofern nicht grobe Fahrlässigkeit oder Vorsatz seitens des Unternehmens vorliegt. § 12 (Haftung) bleibt von den vorstehenden Regelungen unberührt."
+					},{
+						"_id": "6.2",
+						"text": "Es ist untersagt, in Bezug auf die Plattform medlink.de Mechanismen, Software oder sonstige Scripts, die den ordnungsgemäßen Betrieb der Webseite stören könnten, zu verwenden oder in sonstiger Weise störend in den Internetauftritt von MedLink einzugreifen. Ebenso ist es untersagt, Maßnahmen zu ergreifen, die eine unzumutbare oder übermäßige Belastung der Infrastruktur von medlink.de zur Folge haben könnten."
+					}
+				]
+			},{
+				"_id": 7,
+				"title": "Allgemeine Verhaltenspflichten für Nutzer / Vertragsstrafe",
+				"text": "Nachfolgende Verhaltenspflichten gelten für alle Nutzer der Internetplattform MedLink. Sie sind nicht abschließend und konkretisieren gesetzliche Vorgaben:",
+				"sublist" : [
+					{
+						"_id": "7.1",
+						"text": "Der Nutzer hat dafür Sorge zu tragen, dass die von ihm an MedLink übermittelten oder auf der Plattform eingestellten Daten, Angebote, Texte und bildlichen Darstellungen (etwa Angebotsbeschreibungen oder Bewerbungsprofile) den Tatsachen entsprechen und aktuell sind, keine Rechte Dritter verletzen, insbesondere geistiges Eigentum oder Persönlichkeitsrechte Dritter, oder gegen gesetzliche Regelungen verstoßen. Insbesondere ist der Nutzer verpflichtet, den Datenschutz zu beachten und ggf. erforderliche Einwilligungen betroffener Personen einzuholen und MedLink ggf. nachzuweisen."
+					},{
+						"_id": "7.2",
+						"text": "Werbung im Rahmen von Angeboten, Texten und bildlichen Darstellungen ist dem Nutzer nur erlaubt, wenn sich diese auf Stellenanzeigen bezieht, die der Nutzer selbst aktuell oder in unmittelbarer Zukunft über die Plattform anbietet."
+					},{
+						"_id": "7.3",
+						"text": "Die Angabe von URL-Links oder Webadressen ist im Rahmen der Veröffentlichungen auf der Plattform nicht gestattet. Davon ausgenommen sind notwendige, etwa von Gesetzes wegen erforderliche Angaben."
+					},{
+						"_id": "7.4",
+						"text": "Informationen, die Nutzer im Rahmen von Veröffentlichungen auf der Internetplattform (Stellenangeboten oder -gesuchen), online stellen oder durch MedLink anderen Nutzern in sonstiger Weise übermittelt werden, dürfen nur im Zusammenhang mit dem jeweiligen Angebot benutzt werden. Eine Verwendung für Werbemaßnahmen, etwa den Versand von Newslettern, oder die Weitergabe an Dritte ist nicht gestattet."
+					},{
+						"_id": "7.5",
+						"text": "Maßnahmen, die das Ziel verfolgen, Vertragsabschlüsse außerhalb der Internetplattform durchzuführen, obwohl der Kontakt durch Daten, Angebote, Texte oder bildliche Darstellungen eines Nutzers auf der Plattform erfolgt ist, sind untersagt."
+					},{
+						"_id": "7.6",
+						"text": "Es ist nicht gestattet, Maßnahmen durchzuführen, durch die die geschäftlichen Interessen von MedLink in unzumutbarer Weise beeinträchtigt werden. Hiervon umfasst ist etwa der Versuch, etwaige Zahlungsansprüche von MedLink, die sich aus dem Betrieb der Plattform ergeben können, zu vereiteln oder zu umgehen."
+					},{
+						"_id": "7.7",
+						"text": "Die Nutzung der durch MedLink erstellten Stellenangebote bzw. der darin enthaltenen Medien und Texte außerhalb des Angebots von MedLink, etwa auf selbst oder von Dritten beworbenen Internetseiten, ist nur mit vorheriger Zustimmung von MedLink gestattet. Gleiches gilt für die Verlinkung der Stellenangebote auf Suchmaschinen und sonstigen Internetseiten."
+					},{
+						"_id": "7.8",
+						"text": "Die Nutzer verpflichten sich, den über MedLink vermittelten Mitarbeiter nach Ablauf des über Medlink vermittelten Vertrages innerhalb von zwei Jahren nicht erneut oder weiter in der medizinischen Einrichtung zu beschäftigen, ohne MedLink hierüber unverzüglich in Kenntnis zu setzen."
+					},{
+						"_id": "7.9",
+						"text": "Bei Verstößen gegen die Absätze 6 bis 10 erhält MedLink von den beteiligten Nutzern für jeden Fall der schuldhaften Zuwiderhandlung eine angemessene, von MedLink nach billigem Ermessen festzusetzende Vertragsstrafe, die im Streitfall von dem insoweit zuständigen Gericht überprüft werden kann."
+					}
+				]
+			},{
+				"_id": 8,
+				"title": "Betrieb der Plattform",
+				"text": "",
+				"sublist" : [
+					{
+						"_id": "8.1",
+						"text": "MedLink ist berechtigt, die Internetplattform jederzeit nach eigenem Gutdünken umzugestalten. MedLink wird dabei die Interessen der Nutzer hinreichend berücksichtigen."
+					},{
+						"_id": "8.2",
+						"text": "MedLink ist befugt, einzelne Inhalte auf der Internetplattform zu löschen. Dies gilt insbesondere für Veröffentlichungen, die Rechte Dritter verletzen könnten."
+					},{
+						"_id": "8.3",
+						"text": "Wird MedLink auf Verstöße gegen gewerbliche Schutzrechte, Urheberrecht oder Wettbewerbsrecht durch Nutzer hingewiesen oder die Veröffentlichung von Angeboten ganz oder teilweise untersagt, ist MedLink ohne Verpflichtung zur Prüfung der Rechtslage berechtigt, das Angebot unmittelbar offline zu stellen. Der Nutzer hat MedLink von allen Ansprüchen Dritter, die damit im Zusammenhang stehen, unverzüglich freizustellen."
+					}
+				]
+			},{
+				"_id": 9,
+				"title": "Provisions-/Zahlungsabwicklung",
+				"text": "",
+				"sublist" : [
+					{
+						"_id": "9.1",
+						"text": "Die bloße Registrierung auf medlink.de oder die Übersendung von Stellenanzeigen oder Bewerberdaten ist für Nutzer beider Seiten kostenfrei."
+					},{
+						"_id": "9.2",
+						"text": "MedLink erhält für die Bereitstellung der Plattform von den Zeitarbeitsfirmen und Personalvermittlungsagenturen im Erfolgsfall der Vermittlung eine Provision in Abhängigkeit des Gesamtvolumens des Auftrags zzgl. gesetzliche Umsatzsteuer. Das Gesamtvolumen des Auftrags berechnet sich auf Basis der Vergütung, die die Zeitarbeitsfirma oder Personalvermittlungs-agentur von der medizinischen Einrichtung für den erfolgreichen Vertragsschluss erhält. MedLink ist berechtigt, hierüber Auskunft unter Vorlage aussagekräftiger Nachweise (z.B. Vertragsunterlagen, Stundennachweise) zu verlangen."
+					},{
+						"_id": "9.3",
+						"text": "Im Falle einer erneuten oder fortgesetzten Beschäftigung eines über MedLink vermittelten Mitarbeiters (vgl. § 7 Ziff. 9) erhält MedLink innerhalb von eine Vergütung gemäß der für den zuletzt zwischen den Parteien geschlossenen Vertrag bestehenden Vergütungsregelungen."
+					},{
+						"_id": "9.4",
+						"text": "Zahlungsabwicklung<0></0>Alle Zahlungen, die aufgrund des Provisionsanspruchs an MedLink zu entrichten sind, werden stets sofort fällig und sind innerhalb von 14 Tagen nach Vertragsschluss zwischen den Nutzern zahlbar."
+					}
+				]
+			},{
+				"_id": 10,
+				"title": "Vertragsinhalt und -abwicklung",
+				"text": "Die Parteien vereinbaren den zwischen ihnen oder – im Falle der Beteiligung einer vermittelnden Person – zwischen dem Stellenanbieter und dem Stelleninteressenten zustande kommenden Vertrag eigenständig. MedLink ist an dem Vertragsschluss nicht beteiligt und mit seinem Inhalt nicht betraut.",
+				"sublist" : [
+				]
+			},{
+				"_id": 11,
+				"title": "Rechtsposition von MedLink",
+				"text": "MedLink behält sich vor, Rechte und Pflichten aus der Nutzungsvereinbarung sowie aus diesen AGB ganz oder teilweise an Dritte zu übertragen oder durch Dritte ausüben zu lassen.",
+				"sublist" : [
+				]
+			},{
+				"_id": 12,
+				"title": "Haftung",
+				"text": "",
+				"sublist" : [
+					{
+						"_id": "12.1",
+						"text": "Für leicht fahrlässig verursachte Schäden haftet MedLink nur, soweit diese auf der Verletzung vertragswesentlicher Pflichten (Kardinalpflichten) beruhen, Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit vorliegen oder Ansprüche nach dem Produkthaftungsgesetz oder aus einer von uns übernommenen Beschaffenheitsgarantie bestehen. Kardinalpflichten sind solche Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglichen und auf deren Einhaltung der Vertragspartner vertrauen durfte."
+					},{
+						"_id": "12.2",
+						"text": "Die Haftung von MedLink für einfache Fahrlässigkeit nach dieser Regelung ist auf den typischerweise vorhersehbaren Schaden begrenzt. Dies gilt auch für leicht fahrlässig verursachte Verzögerungsschäden."
+					},{
+						"_id": "12.3",
+						"text": "Die Bestimmungen der vorstehenden Absätze gelten entsprechend auch für eine Begrenzung des Ersatzes für vergebliche Aufwendungen (§ 284 BGB)."
+					},{
+						"_id": "12.4",
+						"text": "Die vorstehenden Haftungsbeschränkung-en gelten auch zu Gunsten der Erfüllungsgehilfen und gesetzlicher Vertreter von MedLink."
+					}
+				]
+			},{
+				"_id": 13,
+				"title": "Bilderrechte / Bilddarstellungen",
+				"text": "Sofern die Plattform medlink.de außerhalb des dem Nutzer oder sonstigen Dritten für Veröffentlichungen zur Verfügung gestellten Bereichs Bilder enthält, liegen die Rechte an dem jeweiligen Bild bei MedLink. Eine Verwendung der Bilder ohne ausdrückliche Zustimmung von MedLink ist untersagt.",
+				"sublist" : [
+				]
+			},{
+				"_id": 14,
+				"title": "Bilderrechte / Bilddarstellungen",
+				"text": "Der Schutz der personenbezogenen Daten des Nutzers bei der Erhebung, Verarbeitung und Nutzung anlässlich seines Besuchs auf der Plattform medlink.de ist MedLink ein wichtiges Anliegen. MedLink beachtet die Vorschriften der Datenschutzgrundverordnung (DSGVO), des Bundesdatenschutzgesetzes und ggf. weiterer anwendbarer Datenschutz-bestimmungen. Weitere Informationen über Art, Umfang, Ort und Zweck der Erhebung, Verarbeitung und Nutzung der erhobenen Daten finden sich in der Datenschutzerklärung, die über den Link „Datenschutz“ jederzeit zu erreichen ist.",
+				"sublist" : [
+				]
+			},{
+				"_id": 15,
+				"title": "Online-Streitbeilegung für Verbraucher",
+				"text": "",
+				"sublist" : [
+					{
+						"_id": "15.1",
+						"text": "Als Verbraucher im Sinne des § 13 BGB können Sie bei Problemen mit online abgeschlossenen Verträgen das Online-Streitbeilegungs-Portal der Europäischen Kommission aufsuchen: <2>http://ec.europa.eu/consumers/odr/</2>",
+						"href": "http://ec.europa.eu/consumers/odr/"
+					},{
+						"_id": "15.2",
+						"text": "MedLink ist zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle weder bereit noch verpflichtet."
+					}
+				]
+			},{
+				"_id": 16,
+				"title": "Schlussbestimmungen",
+				"text": "",
+				"sublist" : [
+					{
+						"_id": "16.1",
+						"text": "MedLink behält sich vor, diese Allgemeinen Geschäftsbedingungen jederzeit zu ändern. Hierfür übermittelt MedLink dem Nutzer die geänderten Bedingungen rechtzeitig vor dem geplanten Inkrafttreten per E-Mail und weist den Nutzer auf die neuen Regelungen sowie das Datum des geplanten Inkrafttretens gesondert hin. Zugleich wird MedLink dem Nutzer eine angemessene, mindestens vier Wochen lange Frist für die Erklärung einräumen, ob der Nutzer die geänderten Nutzungsbedingungen für die weitere Inanspruchnahme der Leistungen akzeptiert. Erfolgt innerhalb dieser Frist, die ab Erhalt der Nachricht in Textform zu laufen beginnt, keine Erklärung, gelten die geänderten Bedingungen als vereinbart. MedLink wird den Nutzer bei Fristbeginn gesondert auf diese Rechtsfolge, d.h. das Widerspruchsrecht, die Widerrufsfrist und die Bedeutung des Schweigens hinweisen. Die AGB können in ihrer jeweils gültigen Fassung stets unter www.medlink.de abgerufen und ausgedruckt werden."
+					},{
+						"_id": "16.2",
+						"text": "Es gilt deutsches Recht ohne die Verweisungsnormen des Internationalen Privatrechts."
+					},{
+						"_id": "16.3",
+						"text": "Ausschließlicher Gerichtsstand bei Verträgen mit Kaufleuten, juristischen Personen des öffentlichen Rechts oder öffentlich-rechtlichen Sondervermögen ist der Sitz von MedLink."
+					},{
+						"_id": "16.4",
+						"text": "Sollten einzelne Bestimmungen dieser AGB unwirksam oder undurchführbar sein oder nach Vertragsschluss unwirksam oder undurchführbar werden, bleibt davon die Wirksamkeit des Vertrages im Übrigen unberührt. An die Stelle der unwirksamen oder undurchführbaren Bestimmung treten die gesetzlichen Bestimmungen. Gleiches gilt entsprechend für den Fall, dass sich der Vertrag als lückenhaft erweist."
+					}
+				]
+			}
+		]
+	},
+	"impressum": {
+		"meta": [{
+			"name": "",
+			"content": ""
+		}],
+		"title": "Impressum",
+		"date": "Zulezt aktualisiert 12/05/2020",
+		"end": "© 2020 MEDLINK UG (haftungsbeschränkt) Köln. Alle Rechte vorbehalten.",
+		"list": [
+			{
+				"_id": 1,
+				"text": "Angaben gemäß § 5 TMG"
+			},{
+				"_id": 2,
+				"text": "<2>www.medlink.de</2><1> ist eine Dienstleistung der MEDLINK UG (Haftungsbeschränkt)</1>",
+				"href": "www.medlink.de"
+			},{
+				"_id": 3,
+				"text": "Am botanischen Garten 30<0></0>50735 Köln"
+			},{
+				"_id": 4,
+				"text": "Telefon: ",
+				"dblink": "global.phone.number"
+			},{
+				"_id": 5,
+				"text": "E-mail: <2>info@medlink.de</2>",
+				"href": "mailto:info@medlink.de"
+			},{
+				"_id": 6,
+				"text": "Geschäftsführer:<0></0>Philipp Busse<0></0>Lukas Antczak<0></0>Philipp Antczak"
+			},{
+				"_id": 7,
+				"text": "Verantwortlich für den Inhalt gem. § 55 RStV: Philipp Busse<0></0>Handelsregister: Amtsgericht Köln HRB 100675 B<0></0>Umsatzsteuer-Identifikationsnummer (USt-IdNr.):"
+			}
+		],
+		"details": [
+			{
+				"_id": 1,
+				"title": "Haftung für Inhalte",
+				"text": "Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen."
+			},{
+				"_id": 2,
+				"title": "Haftung für Links",
+				"text": "Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen."
+			},{
+				"_id": 3,
+				"title": "Urheberrecht",
+				"text": "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen."
+			}
+		]
+	},
+	"partner": {
+		"how_it_works": {
+			"title": "So einfach geht’s",
+			"subtitle": "",
+			"subscription": {
+				"title1": "Dienstanfrage erhalten",
+				"title2": "Direktes Matching",
+				"title3": "Vollständige Abwicklung",
+				"text1": "Sie erhalten über unsere Plattform individuelle Anforderungsprofile, die Sie einfach und digital mit Ihren Bewerberprofilen abgleichen können. Unsere Profile enthalten alle wesentlichen Informationen.",
+				"text2": "Mit nur einem Angebot melden Sie unserer Plattform verfügbare Mitarbeiter und geben ein Angebot ab. Das Matching erfolgt innerhalb von wenigen Minuten.",
+				"text3": "medlink übernimmt die komplette Abwicklung des Vermittlungsprozesses für Sie in digitaler Form. Wir entlasten Sie vom Vertragsmanagement bis zur Rechnungsabwicklung. Natürlich stehen wir Ihnen jederzeit als persönlicher Ansprechpartner zur Verfügung."
+			}
+		}
+	},
+	"agencies": {
+		"header_carousel": {
+			"1": {
+				"title": "medlink bieten Ihnen Zugang zu einem weitreichenden Netzwerk an neuen Kunden.",
+				"sub": "Wir versorgen Sie täglich mit zahlreichen Dienstanfragen."
+			}
+		},
+		"advantage": {
+			"header": "Darum entscheiden sich Personalagenturen für die Zusammenarbeit mit uns.",
+			"1": {
+				"title": "Kundennetzwerk maximieren",
+				"text": "Steigern Sie Ihre Auftragsgenerierung durch die Vernetzung mit einem großflächigen Netzwerk an Kliniken erheblich und profitieren Sie von exklusiven Angeboten mit unseren Partnerkliniken."
+			},
+			"2": {
+				"title": "Raum für Wichtiges schaffen",
+				"text": "Wir entlasten Sie in der Abwicklung administrativer Tätigkeiten durch digitale, automatisierte Prozesse. Dabei unterstützen wir Sie in der Vertrags- und Rechnungserstellung und in der Kommunikation mit den Kunden."
+			},
+			"3": {
+				"title": "Benachrichtigung in Echtzeit",
+				"text": "Erfahren Sie durch medlink als Erstes von neuen Dienstanfragen und erhalten Sie die Bestätigung innerhalb weniger Minuten über die Plattform. Mit medlink läuft die Auftragsgenerierung wie von selbst ab."
+			}
+		},
+		"process": {
+			"header": "Schritt für Schritt",
+			"sub": "Transparent und bequem - so einfach ist die Auftragsgewinnung mit medlink.",
+			"1": {
+				"title": "Dienstanfrage erhalten",
+				"text": "Sie erhalten individuelle Anfragen für Ihre Mitarbeiter direkt über die Plattform. So können Sie das Anforderungsprofil einfach und bequem mit Ihrem Mitarbeiterportfolio in digitaler Form abgleichen. Dazu versorgen wir Sie mit den wesentlichen Informationen und einem direkten Ansprechpartner."
+			},
+			"2": {
+				"title": "Direktes Matching",
+				"text": "Mit nur einem Klick melden Sie verfügbare Mitarbeiter und geben ein Angebot ab. So kann das Matching innerhalb von Minuten über die Plattform erfolgen."
+			},
+			"3": {
+				"title": "Vollständige Abwicklung",
+				"text": "Die administrative Abwicklung des Vermittlungsprozesses wird von medlink in digitaler Form übernommen. Wir entlasten Sie vom Vertragsmanagement bis hin zur Rechnungsabwicklung und sind jederzeit auch als persönlicher Ansprechpartner für Sie da."
+			}
+		}
+	},
+	"howitworks": {
+		"header_carousel": {
+			"1": {
+				"title": "Mit medlink steuern Sie die Personalplanung so effektiv und kostengünstig wie nie zuvor",
+				"sub": "Mit wenigen Klicks zum idealen Ersatz. Wir helfen Ihnen, Ihr Ausfallmanagement effizient und kostengünstig zu gestalten."
+			}
+		},
+		"process": {
+			"header": "So funktioniert's",
+			"sub": "Innerhalb von wenigen Minuten findet medlink den idealen Personalersatz",
+			"1": {
+				"title": "Personalpool erstellen",
+				"text": "Je Station wird ein Personalpool erstellt. Der Personalpool wird von der jeweiligen Stationsleitung verwaltet und dient der Kommunikation und Koordination der Mitarbeiter"
+			},
+			"2": {
+				"title": "Bedarf melden",
+				"text": "Innerhalb weniger Sekunden erstellt die Stationsleitung bei Ausfall eine Dienstanfrage. Unser Algorithmus identifiziert das passende und einsatzbereite Personal im Personalpool und benachrichtigt diese via App/SMS."
+			},
+			"3": {
+				"title": "Verfügbarkeiten erhalten",
+				"text": "Das verfügbare Personal kann in der App mit einem Klick auf die Anfrage bestätigen. Findet sich im Stationspool kein Ersatz, kann die Dienstanfrage mit weiteren Personalpools anderer Stationen oder Netzwerken geteilt werden."
+			},
+			"4": {
+				"title": "Personal Dritter anfragen",
+				"text": "In letzter Instanz wird die Personalanfrage mit nur einem Klick an geprüfte Personalagenturen weitergeleitet. Dabei profitieren Sie von transparenten Bewertungsprofilen und der Abwicklung sämtlicher administrativer Arbeitsprozesse; von der Kommunikation über die Qualitätssicherung bis zur Vertrags- und Rechnungserstellung."
+			}
+		},
+		"review": {
+			"1": {
+				"title": "medlink ist schnell!",
+				"text": "Die Geschwindigkeit der Abwicklung durch medlink ist ein echtes Plus für unsere Personalverwaltung - aber auch für das Stationspersonal.",
+				"name": "Petra Maier",
+				"position": "Personalangestellte"
+			},
+			"2": {
+				"title": "medlink veringert unseren Stress",
+				"text": "Vorher haben wir durchschnittlich 1 Stunde verloren, um einen Ersatz zu finden, was auch oft stressig war. Mit medlink dauert der Prozess nun 2 Minuten.",
+				"name": "Angela Pfortz",
+				"position": "Stationsleitung"
+			}
+		},
+		"advantage": {
+			"header": "Vorteile durch medlink",
+			"1": {
+				"title": "Alles in Einem",
+				"text": "Personaleinsatzplanung, Dienstplanerstellung, Ausfallmanagement und Recruitment von externem Personal; medlink simplifiziert und automatisiert sämtliche Prozesse des Personalmanagements in digitaler Form."
+			},
+			"2": {
+				"title": "Finanzielle Entlastung",
+				"text": "Durch das optimierte Personalmanagement werden eigene Personalressourcen optimal genutzt und der externe Personalbedarf minimiert. So erzielen Sie signifikanten Kosteneinsparungen und reduzieren die Abhängigkeit von Personalagenturen."
+			},
+			"3": {
+				"title": "Standardisierte Prozesse und reduzierte Schnittstellen",
+				"text": "medlink verknüpft das interne Personalmanagement mit dem nachgelagerten Ausfallmanagement und automatisiert sämtliche Arbeitsprozesse in digitaler Form. So wird Personal von administrativen Tätigkeiten entlastet und kann sich auf Kerntätigkeiten konzentrieren."
+			},
+			"4": {
+				"title": "Mitarbeiter binden",
+				"text": "Positionieren Sie sich als attraktiver Arbeitgeber und gewinnen Sie durch gesteigerte Mitarbeiterzufriedenheit an Produktivitätssteigerungen. Entfalten Sie das volle Potenzial Ihrer Mitarbeiter und erzielen Sie eine langfristige Bindung."
+			},
+			"5": {
+				"title": "Passgenaue Lösungen",
+				"text": "medlink an die spezifischen Anforderungen und Bedürfnisse Ihrer Einrichtung angepasst. So entsteht ein individualisiertes Produkt, das zum bestmöglichen Erfolg führt.."
+			},
+			"6": {
+				"title": "Automatisierte Personalsuche",
+				"text": "Offene Personalanfragen werden direkt durch die Plattform erkannt, bearbeitet und schnellstmöglich an passende Fachkräfte weitergeleitet."
+			}
+		}
+	}
+}

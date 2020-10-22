@@ -1,0 +1,1 @@
+export { Medlink } from './medlink';

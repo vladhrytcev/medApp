@@ -1,0 +1,32 @@
+# dependencies
+/node_modules
+
+# IDE
+/.idea
+/.awcache
+/.vscode
+
+# misc
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# example
+/quick-start
+
+# tests
+/tests
+/coverage
+/.nyc-output
+
+# dist
+/dist
+
+# temp
+/src/app.module.ts
+
+.env
+.now
+.env.local
+
+combined.log

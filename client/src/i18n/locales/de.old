@@ -1,0 +1,210 @@
+{
+  "auth": {
+    "Welcome_back!": "Willkommen zurück!",
+    "Sign_in_to_your_account_to_continue": "Melden Sie sich in Ihrem Konto an, um fortzufahren",
+    "Email_Address": "Email Addresse",
+    "Password": "Passwort",
+    "Sign_In": "Anmelden",
+    "Forgot_password": "Passwort vergessen",
+    "You_dont_have_account_yet,_please": "Sie haben noch keinen Account, bitte",
+    "Sign_Up": "Anmelden",
+    "Get_started": "Loslegen",
+    "Start_creating_the_best_possible_user_experience_for_you_customers": "Erstellen Sie die bestmögliche Benutzererfahrung für Ihre Kunden",
+    "First_Name": "Vorname",
+    "Last_Name": "Nachname",
+    "If_you_already_have_account,_please": "Wenn Sie bereits ein Konto haben, bitte",
+    "Email_is_not_valid": "Email ist ungültig",
+    "Reset_password": "Passwort zurücksetzen",
+    "Enter_your_email_to_reset_your_password": "Geben Sie Ihre email adresse ein, um Ihr Passwort zurückzusetzen",
+    "Your_password_is_to_weak": "Ihr Passwort ist zu schwach",
+    "You_password_is_not_enough_good": "Ihr Passwort ist nicht gut genug",
+    "You_password_is_strong": "Ihr Passwort ist stark"
+  },
+  "global": {
+    "Clinics": "Kliniken",
+	"Agencies": "Agenturen",
+	"How_It_Works": "How It Works",
+	"send": "Anfragen",
+	"login_button": "Login",
+	"logout_button": "Logout",
+	"qlinks": "Sitemap",
+	"contact_us": "Kontaktieren Sie Uns",
+	"phone": "(0221) 964 1811",
+	"email": "info@medlink.de",
+	"other": "Sonstige",
+	"uber_uns": "Über Uns",
+	"AGB": "AGB",
+	"Data_security": "Datenschutz",
+	"Impressum": "Impressum",
+	"contact": {
+		"header": "Kontaktieren Sie Uns",
+		"sub": "Rufen Sie uns an oder schreiben Sie uns einfach eine E-Mail und wir melden uns umgehend persönlich.",
+		"call_me": "Rufen Sie Uns an",
+		"form":{
+			"clinics": {
+				"header": "Kontaktformular für Anfragen",
+				"label": "Name der Einrichtung"
+			},
+			"agencies": {
+				"header": "Kontaktformular für Anfragen",
+				"label": "Name der Organisation"
+			},
+			"general": {
+				"header": "Kontaktformular",
+				"label": "Name der Organisation"
+			},
+			"title": "Anrede",
+			"firstname": "Vorname",
+			"lastname": "Nachname",
+			"email": "E-mail Addresse",
+			"contact": "Telefonnummer",
+			"message": "Ihre Nachricht",
+			"agree": "Ich erkläre mich damit einverstanden, dass meine Daten zur Bearbeitung meines Anliegens verwendet und gespeichert werden. Weitere Informationen und Widerrufshinweise finden Sie in der Datenschutzerklärung.*",
+			"agree2": "* Pflichtangabe",
+			"send": "Absenden"
+		}
+	}
+  },
+  "landing": {
+    "title": "Zielseite",
+	"header_carousel": 
+		{
+			"1": {
+				"title": "Wir modernisieren Ihr Personalmanagement",
+				"sub": "Mobilisieren Sie das volle Potential Ihres Personals und steuern Sie Ihr Ausfallmanagement effektiv."
+			}
+		},
+	"advantage": {
+		"header": "Darum entscheiden sich Kliniken für medlink",
+		"sub": "Medlink bietet eine digitale Lösung zur Optimierung von Arbeitsabläufen, angepasst an die Anforderungen Ihrer Strukturen.",
+		"1": {
+			"title": "Alles in Einem", 
+			"text": "Personaleinsatzplanung, Dienstplanerstellung, Ausfallmanagement und Recruitment von externem Personal; Medlink simplifiziert und automatisiert sämtliche Prozesse des Personalmanagements in digitaler Form."
+		},
+		"2": {
+			"title": "Passgenaue Lösungen", 
+			"text": "Unsere digitalen Lösungen werden an die spezifischen Anforderungen und Bedürfnisse Ihrer Einrichtung angepasst. So entsteht ein individualisiertes Produkt, das zum bestmöglichen Erfolg führt."
+		},
+		"3": {
+			"title": "Finanzielle Entlastung",
+			"text": "Durch das optimierte Personalmanagement werden eigene Personalressourcen optimal genutzt und der externe Personalbedarf minimiert. So erzielen Sie signifikanten Kosteneinsparungen und reduzieren die Abhängigkeit von Personalagenturen."
+		}
+	},
+	"review": {
+		"1": {
+			"title": "Medlink fördert unser Potential", 
+			"text": "In der Zusammenarbeit mit Medlink sehen wir langfristig das Potential, den Fachkräftemangel nicht nur zu verwalten, sondern aktiv entgegenzuwirken.",
+			"name": "John Schmitt",
+			"position": "Personalleiter"
+		}
+	}
+  },
+  "agencies": {
+	"header_carousel": {
+		"1": {
+			"title": "Medlink bieten Ihnen Zugang zu einem weitreichenden Netzwerk an neuen Kunden.",
+			"sub": "Wir versorgen Sie täglich mit zahlreichen Dienstanfragen."
+		}
+	},
+	"advantage": {
+		"header": "Darum entscheiden sich Personalagenturen für die Zusammenarbeit mit uns.",
+		"1": {
+			"title": "Kundennetzwerk maximieren",
+			"text": "Steigern Sie Ihre Auftragsgenerierung durch die Vernetzung mit einem großflächigen Netzwerk an Kliniken erheblich und profitieren Sie von exklusiven Angeboten mit unseren Partnerkliniken."
+		},
+		"2": {
+			"title": "Raum für Wichtiges schaffen",
+			"text": "Wir entlasten Sie in der Abwicklung administrativer Tätigkeiten durch digitale, automatisierte Prozesse. Dabei unterstützen wir Sie in der Vertrags- und Rechnungserstellung und in der Kommunikation mit den Kunden."
+		},
+		"3": {
+			"title": "Benachrichtigung in Echtzeit",
+			"text": "Erfahren Sie durch Medlink als Erstes von neuen Dienstanfragen und erhalten Sie die Bestätigung innerhalb weniger Minuten über die Plattform. Mit Medlink läuft die Auftragsgenerierung wie von selbst ab."
+		}
+	},
+	"process":{
+		"header": "Schritt für Schritt",
+		"sub": "Transparent und bequem - so einfach ist die Auftragsgewinnung mit Medlink.",
+		"1": {
+			"title": "Dienstanfrage erhalten",
+			"text": "Sie erhalten individuelle Anfragen für Ihre Mitarbeiter direkt über die Plattform. So können Sie das Anforderungsprofil einfach und bequem mit Ihrem Mitarbeiterportfolio in digitaler Form abgleichen. Dazu versorgen wir Sie mit den wesentlichen Informationen und einem direkten Ansprechpartner."
+		},
+		"2": {
+			"title": "Direktes Matching",
+			"text": "Mit nur einem Klick melden Sie verfügbare Mitarbeiter und geben ein Angebot ab. So kann das Matching innerhalb von Minuten über die Plattform erfolgen."
+		},
+		"3": {
+			"title": "Vollständige Abwicklung",
+			"text": "Die administrative Abwicklung des Vermittlungsprozesses wird von Medlink in digitaler Form übernommen. Wir entlasten Sie vom Vertragsmanagement bis hin zur Rechnungsabwicklung und sind jederzeit auch als persönlicher Ansprechpartner für Sie da."
+		}
+	}
+  },
+  "howitworks": {
+	"header_carousel": {
+		"1": {
+			"title": "Mit Medlink steuern Sie die Personalplanung so effektiv und kostengünstig wie nie zuvor",
+			"sub": "Mit wenigen Klicks zum idealen Ersatz. Wir helfen Ihnen, Ihr Ausfallmanagement effizient und kostengünstig zu gestalten."
+		}
+	},
+	"process": {
+		"header": "So funktioniert's",
+		"sub": "Innerhalb von wenigen Minuten findet Medlink den idealen Personalersatz",
+		"1": {
+			"title": "Personalpool erstellen",
+			"text": "Je Station wird ein Personalpool erstellt. Der Personalpool wird von der jeweiligen Stationsleitung verwaltet und dient der Kommunikation und Koordination der Mitarbeiter."
+		},
+		"2": {
+			"title": "Bedarf melden",
+			"text": "Innerhalb weniger Sekunden erstellt die Stationsleitung bei Ausfall eine Dienstanfrage. Unser Algorithmus identifiziert das passende und einsatzbereite Personal im Personalpool und benachrichtigt diese via App/SMS."
+		},
+		"3": {
+			"title": "Verfügbarkeiten erhalten",
+			"text": "Das verfügbare Personal kann in der App mit einem Klick auf die Anfrage bestätigen. Findet sich im Stationspool kein Ersatz, kann die Dienstanfrage mit weiteren Personalpools anderer Stationen oder Netzwerken geteilt werden."
+		},
+		"4": {
+			"title": "Personal Dritter anfragen",
+			"text": "In letzter Instanz wird die Personalanfrage mit nur einem Klick an geprüfte Personalagenturen weitergeleitet. Dabei profitieren Sie von transparenten Bewertungsprofilen und der Abwicklung sämtlicher administrativer Arbeitsprozesse; von der Kommunikation über die Qualitätssicherung bis zur Vertrags- und Rechnungserstellung."
+		}
+	},
+	"review": {
+		"1": {
+			"title": "Medlink ist schnell!", 
+			"text": "Die Geschwindigkeit der Abwicklung durch medlink ist ein echtes Plus für unsere Personalverwaltung - aber auch für das Stationspersonal.",
+			"name": "Petra Maier",
+			"position": "Personalangestellte"
+		},
+		"2": {
+			"title": "Medlink veringert unseren Stress", 
+			"text": "Vorher haben wir durchschnittlich 1 Stunde verloren, um einen Ersatz zu finden, was auch oft stressig war. Mit medlink dauert der Prozess nun 2 Minuten.",
+			"name": "Angela Pfortz",
+			"position": "Stationsleitung"
+		}
+	},
+	"advantage":{
+		"header": "Vorteile durch Medlink",
+		"1": {
+			"title": "Alles in Einem",
+			"text": "Personaleinsatzplanung, Dienstplanerstellung, Ausfallmanagement und Recruitment von externem Personal; Medlink simplifiziert und automatisiert sämtliche Prozesse des Personalmanagements in digitaler Form."
+		},
+		"2": {
+			"title": "Qualitätssicherung",
+			"text": "Die durch Medlink geprüften Vermittlungsagenturen garantieren Ihnen die höchste Personalqualität. Durch die Nutzung von Bewertungsprofilen können Sie favorisierte Agenturen speichern und durch Rezensionen transparent machen.."
+		},
+		"3": {
+			"title": "Finanzielle Entlastung",
+			"text": "Durch das optimierte Personalmanagement werden eigene Personalressourcen optimal genutzt und der externe Personalbedarf minimiert. So erzielen Sie signifikanten Kosteneinsparungen und reduzieren die Abhängigkeit von Personalagenturen."
+		},
+		"4": {
+			"title": "Passgenaue Lösungen",
+			"text": "Unsere digitalen Lösungen werden an die spezifischen Anforderungen und Bedürfnisse Ihrer Einrichtung angepasst. So entsteht ein individualisiertes Produkt, das zum bestmöglichen Erfolg führt."
+		},
+		"5": {
+			"title": "Automatisierte Personalsuche",
+			"text": "Offene Personalanfragen werden direkt durch die Plattform, erkannt, bearbeitet und schnellstmöglich an passende Fachkräfte weitergeleitet."
+		},
+		"6": {
+			"title": "Datenanalytik",
+			"text": "Profitieren Sie von individuellen Datenauswertungen und behalten Sie mit unserem Dashboard stets den Überblick über Ihre Leistungsindikatoren. Dabei sorgen wir für die höchste Sicherheit und erfüllen sämtliche Anforderungen der EU-DSGVO und BDSG."
+		}
+	}
+  }
+}
